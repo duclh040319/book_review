@@ -1,0 +1,208 @@
+<h1 class="mt-4">Dashboard</h1>
+<p>Chào mừng bạn đến với trang quản trị.</p>
+
+<div class="row g-4 mb-4">
+    <div class="col-lg-3 col-md-6">
+        <div class="card shadow-sm border-0 h-100">
+            <div class="card-body">
+                <div class="d-flex align-items-center">
+                    <div class="me-3">
+                        <i class="fas fa-book-reader fa-3x text-primary"></i>
+                    </div>
+                    <div>
+                        <h5 class="card-title text-muted fw-bold">Tổng số sách</h5>
+                        <p class="card-text fs-4 fw-bold">1,234</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6">
+        <div class="card shadow-sm border-0 h-100">
+            <div class="card-body">
+                <div class="d-flex align-items-center">
+                    <div class="me-3">
+                        <i class="fas fa-users fa-3x text-success"></i>
+                    </div>
+                    <div>
+                        <h5 class="card-title text-muted fw-bold">Người dùng mới</h5>
+                        <p class="card-text fs-4 fw-bold">256</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6">
+        <div class="card shadow-sm border-0 h-100">
+            <div class="card-body">
+                <div class="d-flex align-items-center">
+                    <div class="me-3">
+                        <i class="fas fa-comments fa-3x text-info"></i>
+                    </div>
+                    <div>
+                        <h5 class="card-title text-muted fw-bold">Đánh giá mới</h5>
+                        <p class="card-text fs-4 fw-bold">58</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6">
+        <div class="card shadow-sm border-0 h-100">
+            <div class="card-body">
+                <div class="d-flex align-items-center">
+                    <div class="me-3">
+                        <i class="fas fa-star fa-3x text-warning"></i>
+                    </div>
+                    <div>
+                        <h5 class="card-title text-muted fw-bold">Đánh giá trung bình</h5>
+                        <p class="card-text fs-4 fw-bold">4.7 / 5</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row g-4 mb-4">
+    <div class="col-lg-6">
+        <div class="card shadow-sm border-0 h-100">
+            <div class="card-header bg-white fw-bold">
+                Lượt truy cập hàng tháng
+            </div>
+            <div class="card-body">
+                <canvas id="monthlyVisitorsChart" width="400" height="200"></canvas>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-6">
+        <div class="card shadow-sm border-0 h-100">
+            <div class="card-header bg-white fw-bold">
+                Đánh giá theo thể loại
+            </div>
+            <div class="card-body">
+                <canvas id="reviewsByCategoryChart" width="400" height="200"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card shadow-sm border-0 mb-4">
+    <div class="card-header bg-white fw-bold">
+        Đánh giá sách gần đây
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-hover mb-0">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Tên sách</th>
+                        <th scope="col">Người dùng</th>
+                        <th scope="col">Đánh giá</th>
+                        <th scope="col">Ngày</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">1</th>
+                        <td>Hoàng tử bé</td>
+                        <td>Nguyễn Văn A</td>
+                        <td><i class="fas fa-star text-warning"></i> 5</td>
+                        <td>2024-05-20</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">2</th>
+                        <td>Đắc nhân tâm</td>
+                        <td>Trần Thị B</td>
+                        <td><i class="fas fa-star text-warning"></i> 4</td>
+                        <td>2024-05-19</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">3</th>
+                        <td>Nhà giả kim</td>
+                        <td>Lê Văn C</td>
+                        <td><i class="fas fa-star text-warning"></i> 5</td>
+                        <td>2024-05-18</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const monthlyVisitorsCtx = document.getElementById('monthlyVisitorsChart');
+        if (monthlyVisitorsCtx) {
+            new Chart(monthlyVisitorsCtx, {
+                type: 'line',
+                data: {
+                    labels: ['Thg 1', 'Thg 2', 'Thg 3', 'Thg 4', 'Thg 5'],
+                    datasets: [{
+                        label: 'Lượt truy cập',
+                        data: [12000, 19000, 15000, 22000, 18000],
+                        borderColor: '#0d6efd',
+                        backgroundColor: 'rgba(13, 110, 253, 0.2)',
+                        fill: true,
+                        tension: 0.4
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        }
+
+        const reviewsByCategoryCtx = document.getElementById('reviewsByCategoryChart');
+        if (reviewsByCategoryCtx) {
+            new Chart(reviewsByCategoryCtx, {
+                type: 'bar',
+                data: {
+                    labels: ['Tiểu thuyết', 'Kinh doanh', 'Khoa học', 'Hồi ký'],
+                    datasets: [{
+                        label: 'Số lượng đánh giá',
+                        data: [5000, 3000, 2500, 2000],
+                        backgroundColor: [
+                            'rgba(13, 110, 253, 0.8)',
+                            'rgba(25, 135, 84, 0.8)',
+                            'rgba(255, 193, 7, 0.8)',
+                            'rgba(220, 53, 69, 0.8)'
+                        ],
+                        borderColor: [
+                            '#0d6efd',
+                            '#198754',
+                            '#ffc107',
+                            '#dc3545'
+                        ],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        }
+    });
+</script>

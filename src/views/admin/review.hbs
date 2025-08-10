@@ -1,0 +1,93 @@
+<h1 class="mt-4">Quản lý Đánh giá</h1>
+<p>Duyệt, xem và quản lý các bài đánh giá sách từ người dùng.</p>
+
+<!-- Bảng danh sách đánh giá -->
+<div class="card shadow-sm border-0">
+    <div class="card-header bg-white fw-bold">
+        Danh sách các bài đánh giá gần đây
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-hover mb-0">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Tên sách</th>
+                        <th scope="col">Người đánh giá</th>
+                        <th scope="col">Xếp hạng</th>
+                        <th scope="col">Ngày đăng</th>
+                        <th scope="col">Hành động</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">1</th>
+                        <td>Hoàng tử bé</td>
+                        <td>nguyen_van_a</td>
+                        <td><i class="fas fa-star text-warning"></i> 5</td>
+                        <td>2024-05-20</td>
+                        <td>
+                            <button class="btn btn-sm btn-info text-white me-2" data-bs-toggle="modal" data-bs-target="#viewReviewModal"><i class="fas fa-eye"></i></button>
+                            <button class="btn btn-sm btn-danger"><i class="fas fa-trash"></i></button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row">2</th>
+                        <td>Đắc nhân tâm</td>
+                        <td>tran_thi_b</td>
+                        <td><i class="fas fa-star text-warning"></i> 4</td>
+                        <td>2024-05-19</td>
+                        <td>
+                            <button class="btn btn-sm btn-info text-white me-2" data-bs-toggle="modal" data-bs-target="#viewReviewModal"><i class="fas fa-eye"></i></button>
+                            <button class="btn btn-sm btn-danger"><i class="fas fa-trash"></i></button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row">3</th>
+                        <td>Nhà giả kim</td>
+                        <td>le_van_c</td>
+                        <td><i class="fas fa-star text-warning"></i> 5</td>
+                        <td>2024-05-18</td>
+                        <td>
+                            <button class="btn btn-sm btn-info text-white me-2" data-bs-toggle="modal" data-bs-target="#viewReviewModal"><i class="fas fa-eye"></i></button>
+                            <button class="btn btn-sm btn-danger"><i class="fas fa-trash"></i></button>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<!-- Modal để xem chi tiết đánh giá -->
+<div class="modal fade" id="viewReviewModal" tabindex="-1" aria-labelledby="viewReviewModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="viewReviewModalLabel">Chi Tiết Đánh Giá</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="mb-3">
+                    <strong>Tên sách:</strong> <span id="reviewBookTitle">Hoàng tử bé</span>
+                </div>
+                <div class="mb-3">
+                    <strong>Người đánh giá:</strong> <span id="reviewUserName">nguyen_van_a</span>
+                </div>
+                <div class="mb-3">
+                    <strong>Xếp hạng:</strong> <span id="reviewRating"><i class="fas fa-star text-warning"></i> 5</span>
+                </div>
+                <div class="mb-3">
+                    <strong>Nội dung:</strong>
+                    <p id="reviewContent" class="mt-2 p-3 bg-light rounded">
+                        Đây là một cuốn sách tuyệt vời, đầy ý nghĩa. Lối viết nhẹ nhàng nhưng lại chứa đựng những triết lý sâu sắc về tình yêu, tình bạn và cuộc sống. Tôi thực sự khuyên bạn nên đọc.
+                    </p>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
+                <button type="button" class="btn btn-danger"><i class="fas fa-trash me-2"></i>Xóa đánh giá</button>
+            </div>
+        </div>
+    </div>
+</div>

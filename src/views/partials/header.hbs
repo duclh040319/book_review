@@ -1,0 +1,59 @@
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">LOGO</a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarText"
+      aria-controls="navbarText"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarText">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Features</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/api/v1/books/index">Books</a>
+        </li>
+      </ul>
+      {{#if userData}}
+        <span class="navbar-text">
+
+          <li class="nav-item dropdown" style="list-style: none;">
+            <a
+              class="nav-link dropdown-toggle"
+              href="#"
+              role="button"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
+              {{userData.username}}
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#">Action</a></li>
+              <li><a class="dropdown-item" href="#">Another action</a></li>
+              <li><a class="dropdown-item" href="/api/v1/auth/logout">Logout</a></li>
+            </ul>
+          </li>
+        </span>
+
+      {{else}}
+        <span class="navbar-text">
+          <a href="/api/v1/auth/login" class="nav-link">Login</a>
+        </span>
+        <span class="navbar-text mx-1"></span>
+        <span class="navbar-text">
+          <a href="/api/v1/auth/register" class="nav-link">Register</a>
+        </span>
+      {{/if}}
+    </div>
+  </div>
+</nav>

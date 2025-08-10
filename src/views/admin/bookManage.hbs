@@ -1,0 +1,111 @@
+<h1 class="mt-4">Quản lý Sách</h1>
+<p>Thêm, chỉnh sửa và quản lý thông tin các cuốn sách trên nền tảng.</p>
+
+<!-- Nút thêm sách mới -->
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addBookModal">
+        <i class="fas fa-plus me-2"></i>Thêm sách mới
+    </button>
+</div>
+
+<!-- Modal để thêm sách mới -->
+<div class="modal fade" id="addBookModal" tabindex="-1" aria-labelledby="addBookModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="addBookModalLabel">Thêm Sách Mới</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="mb-3">
+                        <label for="bookTitle" class="form-label">Tên sách</label>
+                        <input type="text" class="form-control" id="bookTitle" placeholder="Ví dụ: Hoàng tử bé">
+                    </div>
+                    <div class="mb-3">
+                        <label for="bookAuthor" class="form-label">Tác giả</label>
+                        <input type="text" class="form-control" id="bookAuthor" placeholder="Ví dụ: Antoine de Saint-Exupéry">
+                    </div>
+                    <div class="mb-3">
+                        <label for="bookCategory" class="form-label">Thể loại</label>
+                        <input type="text" class="form-control" id="bookCategory" placeholder="Ví dụ: Tiểu thuyết">
+                    </div>
+                    <div class="mb-3">
+                        <label for="bookCover" class="form-label">URL ảnh bìa</label>
+                        <input type="url" class="form-control" id="bookCover" placeholder="http://example.com/cover.jpg">
+                    </div>
+                    <div class="mb-3">
+                        <label for="bookDescription" class="form-label">Mô tả</label>
+                        <textarea class="form-control" id="bookDescription" rows="3"></textarea>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
+                <button type="button" class="btn btn-primary">Lưu</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Bảng danh sách sách -->
+<div class="card shadow-sm border-0">
+    <div class="card-header bg-white fw-bold">
+        Danh sách các cuốn sách
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-hover mb-0">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Ảnh bìa</th>
+                        <th scope="col">Tên sách</th>
+                        <th scope="col">Tác giả</th>
+                        <th scope="col">Thể loại</th>
+                        <th scope="col">Đánh giá TB</th>
+                        <th scope="col">Hành động</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">1</th>
+                        <td><img src="https://placehold.co/40x60/f2f2f2/333333?text=Bia" alt="Bìa sách" class="img-thumbnail"></td>
+                        <td>Đắc nhân tâm</td>
+                        <td>Dale Carnegie</td>
+                        <td>Kỹ năng sống</td>
+                        <td><i class="fas fa-star text-warning"></i> 4.9</td>
+                        <td>
+                            <button class="btn btn-sm btn-info text-white me-2"><i class="fas fa-edit"></i></button>
+                            <button class="btn btn-sm btn-danger"><i class="fas fa-trash"></i></button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row">2</th>
+                        <td><img src="https://placehold.co/40x60/f2f2f2/333333?text=Bia" alt="Bìa sách" class="img-thumbnail"></td>
+                        <td>Hoàng tử bé</td>
+                        <td>Antoine de Saint-Exupéry</td>
+                        <td>Tiểu thuyết</td>
+                        <td><i class="fas fa-star text-warning"></i> 4.8</td>
+                        <td>
+                            <button class="btn btn-sm btn-info text-white me-2"><i class="fas fa-edit"></i></button>
+                            <button class="btn btn-sm btn-danger"><i class="fas fa-trash"></i></button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row">3</th>
+                        <td><img src="https://placehold.co/40x60/f2f2f2/333333?text=Bia" alt="Bìa sách" class="img-thumbnail"></td>
+                        <td>Nhà giả kim</td>
+                        <td>Paulo Coelho</td>
+                        <td>Tiểu thuyết</td>
+                        <td><i class="fas fa-star text-warning"></i> 4.8</td>
+                        <td>
+                            <button class="btn btn-sm btn-info text-white me-2"><i class="fas fa-edit"></i></button>
+                            <button class="btn btn-sm btn-danger"><i class="fas fa-trash"></i></button>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

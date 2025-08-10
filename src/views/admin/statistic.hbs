@@ -1,0 +1,237 @@
+<h1 class="mt-4">Thống kê</h1>
+<p>Tổng quan về các hoạt động trên nền tảng của bạn.</p>
+
+<div class="row g-4 mb-4">
+    <!-- Card 1: Tổng số đánh giá -->
+    <div class="col-lg-3 col-md-6">
+        <div class="card shadow-sm border-0 h-100">
+            <div class="card-body">
+                <div class="d-flex align-items-center">
+                    <div class="me-3">
+                        <i class="fas fa-comments fa-3x text-info"></i>
+                    </div>
+                    <div>
+                        <h5 class="card-title text-muted fw-bold">Tổng số đánh giá</h5>
+                        <p class="card-text fs-4 fw-bold">12,500</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Card 2: Lượt truy cập hôm nay -->
+    <div class="col-lg-3 col-md-6">
+        <div class="card shadow-sm border-0 h-100">
+            <div class="card-body">
+                <div class="d-flex align-items-center">
+                    <div class="me-3">
+                        <i class="fas fa-eye fa-3x text-primary"></i>
+                    </div>
+                    <div>
+                        <h5 class="card-title text-muted fw-bold">Lượt truy cập hôm nay</h5>
+                        <p class="card-text fs-4 fw-bold">5,890</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Card 3: Người dùng hoạt động -->
+    <div class="col-lg-3 col-md-6">
+        <div class="card shadow-sm border-0 h-100">
+            <div class="card-body">
+                <div class="d-flex align-items-center">
+                    <div class="me-3">
+                        <i class="fas fa-user-check fa-3x text-success"></i>
+                    </div>
+                    <div>
+                        <h5 class="card-title text-muted fw-bold">Người dùng hoạt động</h5>
+                        <p class="card-text fs-4 fw-bold">3,120</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Card 4: Sách được đánh giá cao nhất -->
+    <div class="col-lg-3 col-md-6">
+        <div class="card shadow-sm border-0 h-100">
+            <div class="card-body">
+                <div class="d-flex align-items-center">
+                    <div class="me-3">
+                        <i class="fas fa-medal fa-3x text-warning"></i>
+                    </div>
+                    <div>
+                        <h5 class="card-title text-muted fw-bold">Sách đánh giá cao nhất</h5>
+                        <p class="card-text fs-4 fw-bold">Đắc nhân tâm</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Biểu đồ -->
+<div class="row g-4 mb-4">
+    <!-- Biểu đồ lượt truy cập hàng tháng -->
+    <div class="col-lg-6">
+        <div class="card shadow-sm border-0 h-100">
+            <div class="card-header bg-white fw-bold">
+                Lượt truy cập hàng tháng
+            </div>
+            <div class="card-body">
+                <!-- Vị trí để chèn biểu đồ -->
+                <canvas id="monthlyVisitorsChart" width="400" height="200"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Biểu đồ số lượng đánh giá theo thể loại -->
+    <div class="col-lg-6">
+        <div class="card shadow-sm border-0 h-100">
+            <div class="card-header bg-white fw-bold">
+                Đánh giá theo thể loại
+            </div>
+            <div class="card-body">
+                <!-- Vị trí để chèn biểu đồ -->
+                <canvas id="reviewsByCategoryChart" width="400" height="200"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Bảng top 10 sách -->
+<div class="card shadow-sm border-0 mb-4">
+    <div class="card-header bg-white fw-bold">
+        Top 10 sách được đánh giá cao nhất
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-hover mb-0">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Tên sách</th>
+                        <th scope="col">Tác giả</th>
+                        <th scope="col">Đánh giá trung bình</th>
+                        <th scope="col">Số lượt đánh giá</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">1</th>
+                        <td>Đắc nhân tâm</td>
+                        <td>Dale Carnegie</td>
+                        <td><i class="fas fa-star text-warning"></i> 4.9</td>
+                        <td>1200</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">2</th>
+                        <td>Hoàng tử bé</td>
+                        <td>Antoine de Saint-Exupéry</td>
+                        <td><i class="fas fa-star text-warning"></i> 4.8</td>
+                        <td>950</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">3</th>
+                        <td>Nhà giả kim</td>
+                        <td>Paulo Coelho</td>
+                        <td><i class="fas fa-star text-warning"></i> 4.8</td>
+                        <td>880</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">4</th>
+                        <td>Bố già</td>
+                        <td>Mario Puzo</td>
+                        <td><i class="fas fa-star text-warning"></i> 4.7</td>
+                        <td>750</td>
+                    </tr>
+                    <!-- Thêm các hàng khác... -->
+                    <tr>
+                        <th scope="row">10</th>
+                        <td>Tư duy nhanh và chậm</td>
+                        <td>Daniel Kahneman</td>
+                        <td><i class="fas fa-star text-warning"></i> 4.5</td>
+                        <td>420</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<!-- Chart.js for charts -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Biểu đồ lượt truy cập hàng tháng
+        const monthlyVisitorsCtx = document.getElementById('monthlyVisitorsChart');
+        if (monthlyVisitorsCtx) {
+            new Chart(monthlyVisitorsCtx, {
+                type: 'line',
+                data: {
+                    labels: ['Thg 1', 'Thg 2', 'Thg 3', 'Thg 4', 'Thg 5'],
+                    datasets: [{
+                        label: 'Lượt truy cập',
+                        data: [12000, 19000, 15000, 22000, 18000],
+                        borderColor: '#0d6efd',
+                        backgroundColor: 'rgba(13, 110, 253, 0.2)',
+                        fill: true,
+                        tension: 0.4
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        }
+
+        // Biểu đồ số lượng đánh giá theo thể loại
+        const reviewsByCategoryCtx = document.getElementById('reviewsByCategoryChart');
+        if (reviewsByCategoryCtx) {
+            new Chart(reviewsByCategoryCtx, {
+                type: 'bar',
+                data: {
+                    labels: ['Tiểu thuyết', 'Kinh doanh', 'Khoa học', 'Hồi ký'],
+                    datasets: [{
+                        label: 'Số lượng đánh giá',
+                        data: [5000, 3000, 2500, 2000],
+                        backgroundColor: [
+                            'rgba(13, 110, 253, 0.8)',
+                            'rgba(25, 135, 84, 0.8)',
+                            'rgba(255, 193, 7, 0.8)',
+                            'rgba(220, 53, 69, 0.8)'
+                        ],
+                        borderColor: [
+                            '#0d6efd',
+                            '#198754',
+                            '#ffc107',
+                            '#dc3545'
+                        ],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        }
+    });
+</script>
