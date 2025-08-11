@@ -1,58 +1,46 @@
 <div class="container my-5">
-  <a href="javascript:history.back()" class="btn btn-secondary mb-4">
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      width="24"
-      height="24"
-      fill="currentColor"
-      class="bi bi-arrow-left-circle my-2"
-      viewBox="0 0 16 16"
-    >
-      <path
-        fill-rule="evenodd"
-        d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8m15 0A8 8 0 1 1 0 8a8 8 
- 0 0 1 16 0m-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5z"
-      />
+  <a href="javascript:history.back()" class="btn btn-outline-secondary mb-4 d-flex align-items-center">
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-arrow-left me-2" viewBox="0 0 16 16">
+      <path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z"/>
     </svg>
-      Quay lại
-</a>
+    Quay lại
+  </a>
+
   <div class="row">
-    <div class="col-md-4">
-      <div class="card mb-4">
-        <img src="{{book.coverImage}}" class="card-img-top" alt="Ảnh bìa sách" />
-        <div class="card-body text-center">
-          <h5 class="card-title">{{book.title}}</h5>
-          <p class="card-text text-muted">{{book.author}}</p>
-        </div>
+    <div class="col-md-5">
+      <div class="card mb-4 shadow-sm border-0 rounded-3 overflow-hidden">
+        <img src="{{book.coverImage}}" class="card-img-top book-cover-detail-image" alt="Ảnh bìa sách" />
+      </div>
+      <div class="text-center mt-3">
+          <h3 class="fw-bold">{{book.title}}</h3>
+          <p class="text-muted">{{book.author}}</p>
+          <div class="mb-3">
+            <span class="text-warning">
+                {{#for 1 book.averageRating 1}}⭐️{{/for}}
+            </span>
+            <small class="text-muted">({{book.averageRating}})</small>
+          </div>
       </div>
     </div>
 
-    <div class="col-md-8">
-      <div class="mb-4">
+    <div class="col-md-7">
+      <div class="card p-4 shadow-sm border-0 rounded-3">
         <h2>Mô tả sách</h2>
+        <hr>
         <p class="text-justify">{{book.description}}</p>
       </div>
     </div>
   </div>
 
-  <hr class="my-5" />
-
-  <div class="row">
+  <div class="row mt-5">
     <div class="col-12">
-      <div class="mb-5">
+      <div class="card p-4 shadow-sm border-0 rounded-3 mb-5">
         <h2>Viết đánh giá của bạn</h2>
+        <hr>
         <form action="/api/v1/books/detail/{{book._id}}/add-review" method="POST">
           <div class="mb-3">
             <label for="rating" class="form-label">Đánh giá (từ 1 đến 10)</label>
-            <input
-              type="number"
-              class="form-control"
-              id="rating"
-              name="rating"
-              min="1"
-              max="10"
-              required
-            />
+            <input type="number" class="form-control" id="rating" name="rating" min="1" max="10" required/>
           </div>
           <div class="mb-3">
             <label for="comment" class="form-label">Bình luận</label>
@@ -61,21 +49,32 @@
           <button type="submit" class="btn btn-primary">Gửi đánh giá</button>
         </form>
       </div>
+    </div>
+  </div>
 
-      <div>
-        <h2>Đánh giá từ người đọc</h2>
-        <ul class="list-group">
-          {{#each reviews}}
-            <li class="list-group-item d-flex justify-content-between align-items-start">
-              <div class="ms-2 me-auto">
-                <div class="fw-bold">{{this.userId.username}}</div>
-                <p class="mt-2">{{this.content}}</p>
-              </div>
-              <span class="badge bg-primary rounded-pill">{{this.rating}}/10</span>
-            </li>
-          {{/each}}
-        </ul>
-      </div>
+  <div class="row mt-4">
+    <div class="col-12">
+      <h2>Đánh giá từ người đọc</h2>
+      <hr>
+      <ul class="list-group">
+        {{#each reviews}}
+          <li class="list-group-item d-flex justify-content-between align-items-start border-0 border-bottom p-3">
+            <div class="ms-2 me-auto">
+              <div class="fw-bold">{{this.userId.username}}</div>
+              <p class="text-muted mt-1 mb-0">{{this.content}}</p>
+            </div>
+            <span class="badge bg-primary rounded-pill d-flex align-items-center p-2">{{this.rating}}/10</span>
+          </li>
+        {{/each}}
+      </ul>
     </div>
   </div>
 </div>
+
+<style>
+  .book-cover-detail-image {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+</style>

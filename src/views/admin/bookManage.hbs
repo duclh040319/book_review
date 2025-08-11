@@ -68,42 +68,21 @@
                     </tr>
                 </thead>
                 <tbody>
+                    {{#each books}}
                     <tr>
-                        <th scope="row">1</th>
+                        <th scope="row">{{sum @index 1}}</th>
                         <td><img src="https://placehold.co/40x60/f2f2f2/333333?text=Bia" alt="Bìa sách" class="img-thumbnail"></td>
-                        <td>Đắc nhân tâm</td>
-                        <td>Dale Carnegie</td>
-                        <td>Kỹ năng sống</td>
-                        <td><i class="fas fa-star text-warning"></i> 4.9</td>
+                        <td>{{this.title}}</td>
+                        <td>{{this.author}}</td>
+                        <td>{{this.description}}</td>
+                        <td><i class="fas fa-star text-warning"></i> {{this.rating}}</td>
                         <td>
                             <button class="btn btn-sm btn-info text-white me-2"><i class="fas fa-edit"></i></button>
                             <button class="btn btn-sm btn-danger"><i class="fas fa-trash"></i></button>
                         </td>
                     </tr>
-                    <tr>
-                        <th scope="row">2</th>
-                        <td><img src="https://placehold.co/40x60/f2f2f2/333333?text=Bia" alt="Bìa sách" class="img-thumbnail"></td>
-                        <td>Hoàng tử bé</td>
-                        <td>Antoine de Saint-Exupéry</td>
-                        <td>Tiểu thuyết</td>
-                        <td><i class="fas fa-star text-warning"></i> 4.8</td>
-                        <td>
-                            <button class="btn btn-sm btn-info text-white me-2"><i class="fas fa-edit"></i></button>
-                            <button class="btn btn-sm btn-danger"><i class="fas fa-trash"></i></button>
-                        </td>
-                    </tr>
-                    <tr>
-                        <th scope="row">3</th>
-                        <td><img src="https://placehold.co/40x60/f2f2f2/333333?text=Bia" alt="Bìa sách" class="img-thumbnail"></td>
-                        <td>Nhà giả kim</td>
-                        <td>Paulo Coelho</td>
-                        <td>Tiểu thuyết</td>
-                        <td><i class="fas fa-star text-warning"></i> 4.8</td>
-                        <td>
-                            <button class="btn btn-sm btn-info text-white me-2"><i class="fas fa-edit"></i></button>
-                            <button class="btn btn-sm btn-danger"><i class="fas fa-trash"></i></button>
-                        </td>
-                    </tr>
+                    {{/each}}
+                    
                 </tbody>
             </table>
         </div>

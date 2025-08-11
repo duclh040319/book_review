@@ -90,15 +90,15 @@
                     aria-haspopup="true"
                     aria-expanded="false"
                   >
-                    <i class="fas fa-user-circle me-2"></i>Admin
+                    <i class="fas fa-user-circle me-2"></i>{{admin}}
                   </a>
                   <div
                     class="dropdown-menu dropdown-menu-end"
                     aria-labelledby="navbarDropdown"
                   >
-                    <a class="dropdown-item" href="#">Thông tin cá nhân</a>
+                    <a class="dropdown-item" href="/api/v1/user/profile">Thông tin cá nhân</a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">Đăng xuất</a>
+                    <a class="dropdown-item" href="/api/v1/auth/logout">Đăng xuất</a>
                   </div>
                 </li>
               </ul>

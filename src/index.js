@@ -55,6 +55,9 @@ app.engine(
         }
         return accum;
       },
+       sum: function (a, b) {
+        return a + b
+      },
       eq: function (a, b) {
         return a === b;
       },
@@ -70,19 +73,20 @@ app.engine(
         }
         return options.inverse(this);
       },
-      generateStars10: function(rating) {
-        let stars = '';
+      generateStars10: function (rating) {
+        let stars = "";
         const roundedRating = Math.round(rating); // Làm tròn điểm số để hiển thị sao
 
         for (let i = 1; i <= 10; i++) {
-            if (i <= roundedRating) {
-                stars += '<span>★</span>'; // Sao vàng
-            } else {
-                stars += '<span>☆</span>'; // Sao rỗng
-            }
+          if (i <= roundedRating) {
+            stars += "<span>★</span>"; // Sao vàng
+          } else {
+            stars += "<span>☆</span>"; // Sao rỗng
+          }
         }
         return stars;
-    }
+      },
+     
     },
   })
 );

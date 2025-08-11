@@ -24,36 +24,34 @@
           <a class="nav-link" href="/api/v1/books/index">Books</a>
         </li>
       </ul>
+      <ul class="navbar-nav mb-2 mb-lg-0">
       {{#if userData}}
-        <span class="navbar-text">
-
-          <li class="nav-item dropdown" style="list-style: none;">
-            <a
-              class="nav-link dropdown-toggle"
-              href="#"
-              role="button"
-              data-bs-toggle="dropdown"
-              aria-expanded="false"
-            >
-              {{userData.username}}
-            </a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Action</a></li>
-              <li><a class="dropdown-item" href="#">Another action</a></li>
-              <li><a class="dropdown-item" href="/api/v1/auth/logout">Logout</a></li>
-            </ul>
-          </li>
-        </span>
-
+        <li class="nav-item dropdown">
+          <a
+            class="nav-link dropdown-toggle"
+            href="#"
+            id="navbarDropdown"
+            role="button"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+          >
+            {{userData.username}}
+          </a>
+          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="/api/v1/user/profile">Profile</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="/api/v1/auth/logout">Logout</a></li>
+          </ul>
+        </li>
       {{else}}
-        <span class="navbar-text">
+        <li class="nav-item">
           <a href="/api/v1/auth/login" class="nav-link">Login</a>
-        </span>
-        <span class="navbar-text mx-1"></span>
-        <span class="navbar-text">
+        </li>
+        <li class="nav-item">
           <a href="/api/v1/auth/register" class="nav-link">Register</a>
-        </span>
+        </li>
       {{/if}}
+      </ul>
     </div>
   </div>
 </nav>
