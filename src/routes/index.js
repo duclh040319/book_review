@@ -1,9 +1,9 @@
-const homeRouter = require("./homeRoutes");
-const authRouter = require("./authRoutes");
-const bookRouter = require("./bookRoutes");
-const profileRouter = require('./profileRoutes')
-const adminRouter = require('./adminRoutes')
-const { isLogin, isAdmin } = require("../middlewares/checkAuth");
+import homeRouter from './homeRoutes.js'
+import authRouter from './authRoutes.js'
+import bookRouter from './bookRoutes.js'
+import profileRouter from './profileRoutes.js'
+import adminRouter from './adminRoutes.js'
+import { isLogin, isAdmin } from '../middlewares/checkAuth.js'
 const routes = (app) => {
   app.use("/api/v1/user",isLogin, profileRouter)
   app.use("/api/v1/books", isLogin, bookRouter);
@@ -15,4 +15,4 @@ const routes = (app) => {
   });
 };
 
-module.exports = routes;
+export default routes

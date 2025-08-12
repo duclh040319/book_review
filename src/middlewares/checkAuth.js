@@ -1,3 +1,9 @@
+import { request, response } from "express";
+/**
+ *
+ * @param {request} req
+ * @param {response} res
+ */
 const isLogin = (req, res, next) => {
   if (!req.isAuthenticated()) {
     return res.redirect("/api/v1/auth/login");
@@ -6,16 +12,25 @@ const isLogin = (req, res, next) => {
   next();
 };
 
+/**
+ *
+ * @param {request} req
+ * @param {response} res
+ */
 const isAdmin = (req, res, next) => {
-  const role = req.user.role
+  const role = req.user.role;
 
-  if (role !== 'admin') {
-    return res.status(404).render('404')
+  if (role !== "admin") {
+    return res.status(404).render("404");
   }
-  next()
-  
-}
+  next();
+};
 
+/**
+ *
+ * @param {request} req
+ * @param {response} res
+ */
 const gotoAuth = (req, res, next) => {
   if (req.isAuthenticated()) {
     return res.redirect("/");
@@ -23,4 +38,4 @@ const gotoAuth = (req, res, next) => {
   next();
 };
 
-module.exports = { isLogin, gotoAuth, isAdmin };
+export {isAdmin, isLogin, gotoAuth}

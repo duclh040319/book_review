@@ -1,16 +1,25 @@
-const User = require("../models/User");
-const {mongooseToObject} = require("../utils/mongoose");
-
+import { request, response } from "express";
+import { mongooseToObject } from "../utils/mongoose.js";
 class HomeController {
-    async home(req, res) {
-        try {
-            const user = await req.user;
+  /**
+   *
+   * @param {request} req
+   * @param {response} res
+   */
+  home(req, res) {
+    try {
+      const user = req.user;
+      
 
-            res.render("home", {title: "Home", userData: mongooseToObject(user), layout: 'main'});
-        } catch {
-            res.render("home", {title: "Home", layout: 'main'});
-        }
+      res.render("home", {
+        title: "Home",
+        userData: mongooseToObject(user),
+        layout: "main",
+      });
+    } catch {
+      res.render("home", { title: "Home", layout: "main" });
     }
+  }
 }
 
-module.exports = new HomeController();
+export default new HomeController()

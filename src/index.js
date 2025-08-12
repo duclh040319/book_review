@@ -1,18 +1,20 @@
-const express = require("express");
+import express from "express";
+import cookieParser from "cookie-parser";
+import handlebars from "express-handlebars";
+import session from "express-session";
+import passport from "passport";
+import path from "path";
+import { fileURLToPath } from "url";
+import compression from "compression";
+import methodOverride from "method-override";
 const app = express();
 const port = 8000;
-const cookieParser = require("cookie-parser");
-const handlebars = require("express-handlebars");
-const session = require("express-session");
-const passport = require("passport");
-const path = require("path");
-const compression = require("compression");
-const methodOverride = require("method-override");
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
 
-const routes = require("./routes");
-
+import routes from "./routes/index.js";
 //Connect to Database
-const db = require("./config/database");
+import db from "./config/database.js";
 db();
 
 //Config app
@@ -36,7 +38,7 @@ app.use(
   })
 );
 
-require("./config/passport");
+import "./config/passport.js";
 
 app.use(passport.initialize());
 app.use(passport.session());
@@ -55,8 +57,8 @@ app.engine(
         }
         return accum;
       },
-       sum: function (a, b) {
-        return a + b
+      sum: function (a, b) {
+        return a + b;
       },
       eq: function (a, b) {
         return a === b;
@@ -86,7 +88,6 @@ app.engine(
         }
         return stars;
       },
-     
     },
   })
 );

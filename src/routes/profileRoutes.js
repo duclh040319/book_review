@@ -1,7 +1,6 @@
-const express = require('express')
-const router = express.Router()
-const profileController = require('../controllers/profileController')
-
+import { Router } from 'express'
+const router = Router()
+import profileController from '../controllers/profileController.js'
 router.get('/profile', profileController.profile)
 
-module.exports = router
+export default router

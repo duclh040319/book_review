@@ -1,10 +1,10 @@
-const passport = require("passport");
-const LocalStrategy = require("passport-local").Strategy;
-const User = require("../models/User");
+import passport from "passport";
+import passportLocal from "passport-local";
+const LocalStrategy = passportLocal.Strategy;
 
+import User from "../models/User.js";
 passport.use(
   new LocalStrategy("local", (username, password, done) => {
-
     User.findOne({ username })
       .then((user) => {
         // If the user is not found, authentication fails.
@@ -26,7 +26,7 @@ passport.use(
         // Pass the error to the `done` callback.
         return done(err);
       });
-  }),
+  })
 );
 
 passport.serializeUser(function (user, done) {

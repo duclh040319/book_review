@@ -8,4 +8,4 @@ const mongooseToObject = (mongoose) => {
   return mongoose ? mongoose.toObject() : mongoose;
 };
 
-module.exports = { multipleMongoToObject, mongooseToObject };
+export {multipleMongoToObject, mongooseToObject}

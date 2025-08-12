@@ -6,4 +6,4 @@ const highlightText = (text, search) => {
     return text.replace(regex, (match) => `<span class="highlight">${match}</span>`);
   }
 
-  module.exports = {highlightText}
+ export {highlightText}

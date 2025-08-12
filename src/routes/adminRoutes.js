@@ -1,6 +1,6 @@
-const express = require("express");
-const router = express.Router();
-const adminController = require("../controllers/adminController");
+import { Router } from "express";
+const router = Router()
+import adminController from '../controllers/adminController.js'
 
 router.get("/dashboard", adminController.index);
 router.get("/statistic", adminController.statistic);
@@ -10,4 +10,4 @@ router.get("/reviews", adminController.review);
 router.get("/settings", adminController.setting);
 router.get("/", adminController.redirectIndex);
 
-module.exports = router;
+export default router
