@@ -12,7 +12,8 @@
                     </div>
                     <div>
                         <h5 class="card-title text-muted fw-bold">Tổng số đánh giá</h5>
-                        <p class="card-text fs-4 fw-bold">12,500</p>
+                        {{! Thay thế số tĩnh bằng biến Handlebars }}
+                        <p class="card-text fs-4 fw-bold">{{totalReviews}}</p>
                     </div>
                 </div>
             </div>
@@ -60,7 +61,8 @@
                     </div>
                     <div>
                         <h5 class="card-title text-muted fw-bold">Sách đánh giá cao nhất</h5>
-                        <p class="card-text fs-4 fw-bold">Đắc nhân tâm</p>
+                        {{! Thay thế tên sách tĩnh bằng biến Handlebars }}
+                        <p class="card-text fs-4 fw-bold">{{highestRatedBookTitle}}</p>
                     </div>
                 </div>
             </div>
@@ -115,42 +117,20 @@
                     </tr>
                 </thead>
                 <tbody>
+                    {{#each top10Books}}
                     <tr>
-                        <th scope="row">1</th>
-                        <td>Đắc nhân tâm</td>
-                        <td>Dale Carnegie</td>
-                        <td><i class="fas fa-star text-warning"></i> 4.9</td>
-                        <td>1200</td>
+                        <th scope="row">{{sum @index 1}}</th>
+                        <td>{{this.title}}</td>
+                        <td>{{this.author}}</td>
+                        <td><i class="fas fa-star text-warning"></i> {{this.averageRating}}</td>
+                        <td>{{this.reviewCount}}</td>
                     </tr>
+                    {{else}}
+                    {{! Khối này sẽ hiển thị nếu top10Books rỗng }}
                     <tr>
-                        <th scope="row">2</th>
-                        <td>Hoàng tử bé</td>
-                        <td>Antoine de Saint-Exupéry</td>
-                        <td><i class="fas fa-star text-warning"></i> 4.8</td>
-                        <td>950</td>
+                        <td colspan="5" class="text-center">Chưa có dữ liệu để hiển thị.</td>
                     </tr>
-                    <tr>
-                        <th scope="row">3</th>
-                        <td>Nhà giả kim</td>
-                        <td>Paulo Coelho</td>
-                        <td><i class="fas fa-star text-warning"></i> 4.8</td>
-                        <td>880</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">4</th>
-                        <td>Bố già</td>
-                        <td>Mario Puzo</td>
-                        <td><i class="fas fa-star text-warning"></i> 4.7</td>
-                        <td>750</td>
-                    </tr>
-                    <!-- Thêm các hàng khác... -->
-                    <tr>
-                        <th scope="row">10</th>
-                        <td>Tư duy nhanh và chậm</td>
-                        <td>Daniel Kahneman</td>
-                        <td><i class="fas fa-star text-warning"></i> 4.5</td>
-                        <td>420</td>
-                    </tr>
+                    {{/each}}
                 </tbody>
             </table>
         </div>

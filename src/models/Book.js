@@ -1,7 +1,6 @@
 import mongoose from "mongoose";
 const Schema = mongoose.Schema;
 
-
 const bookSchema = new Schema(
   {
     title: String,
@@ -14,12 +13,13 @@ const bookSchema = new Schema(
     publishedDate: {
       type: Date,
     },
+    type: String,
   },
   {
     timestamps: true,
-  },
+  }
 );
 
 const Book = mongoose.model("Book", bookSchema);
 
-export default Book
+export default Book;

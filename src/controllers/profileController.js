@@ -8,7 +8,7 @@ class ProfileController {
    * @param {request} req
    * @param {response} res
    */
-  profile(req, res) {
+  async profile(req, res) {
     const user = req.user;
     res.render("user/profile", {
       title: "Profile",

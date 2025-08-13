@@ -4,7 +4,7 @@ const LocalStrategy = passportLocal.Strategy;
 
 import User from "../models/User.js";
 passport.use(
-  new LocalStrategy("local", (username, password, done) => {
+  new LocalStrategy("local", async (username, password, done) => {
     User.findOne({ username })
       .then((user) => {
         // If the user is not found, authentication fails.

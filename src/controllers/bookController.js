@@ -3,16 +3,16 @@ import { request, response } from "express";
 import Book from "../models/Book.js";
 import Review from "../models/Review.js";
 import { mongooseToObject, multipleMongoToObject } from "../utils/mongoose.js";
-import {highlightText} from '../middlewares/const.js'
+import { highlightText } from "../middlewares/const.js";
 
 class BookController {
   /**
    *
    * @param {request} req
-   * @param response res
+   * @param {response} res
    */
   async index(req, res) {
-    const user = await req.user;
+    const user = req.user;
     const page = parseInt(req.query.page) || 1;
     const limit = parseInt(req.query.limit) || 15;
     const skip = (page - 1) * limit;
@@ -81,7 +81,7 @@ class BookController {
   /**
    *
    * @param {request} req
-   * @param response res
+   * @param {response} res
    */
   async detail(req, res) {
     const bookId = req.params.id;
@@ -99,9 +99,9 @@ class BookController {
   /**
    *
    * @param {request} req
-   * @param response res
+   * @param {response} res
    */
-  addReview(req, res) {
+  async addReview(req, res) {
     const userId = req.user._id;
     const bookId = req.params.id;
     const { rating, content } = req.body;

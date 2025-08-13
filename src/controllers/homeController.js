@@ -6,10 +6,9 @@ class HomeController {
    * @param {request} req
    * @param {response} res
    */
-  home(req, res) {
+  async home(req, res) {
     try {
       const user = req.user;
-      
 
       res.render("home", {
         title: "Home",
@@ -22,4 +21,4 @@ class HomeController {
   }
 }
 
-export default new HomeController()
+export default new HomeController();

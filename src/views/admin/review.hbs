@@ -1,7 +1,6 @@
 <h1 class="mt-4">Quản lý Đánh giá</h1>
 <p>Duyệt, xem và quản lý các bài đánh giá sách từ người dùng.</p>
 
-<!-- Bảng danh sách đánh giá -->
 <div class="card shadow-sm border-0">
     <div class="card-header bg-white fw-bold">
         Danh sách các bài đánh giá gần đây
@@ -20,46 +19,25 @@
                     </tr>
                 </thead>
                 <tbody>
+                    {{#each reviews}}
                     <tr>
-                        <th scope="row">1</th>
-                        <td>Hoàng tử bé</td>
-                        <td>nguyen_van_a</td>
-                        <td><i class="fas fa-star text-warning"></i> 5</td>
-                        <td>2024-05-20</td>
+                        <th scope="row">{{@index}}</th>
+                        <td>{{this.bookId.title}}</td>
+                        <td>{{this.userId.username}}</td>
+                        <td><i class="fas fa-star text-warning"></i> {{this.rating}}</td>
+                        <td>{{this.createdAt}}</td>
                         <td>
-                            <button class="btn btn-sm btn-info text-white me-2" data-bs-toggle="modal" data-bs-target="#viewReviewModal"><i class="fas fa-eye"></i></button>
+                            <button class="btn btn-sm btn-info text-white me-2 view-review-btn" data-bs-toggle="modal" data-bs-target="#viewReviewModal" data-review-id="{{this._id}}"><i class="fas fa-eye"></i></button>
                             <button class="btn btn-sm btn-danger"><i class="fas fa-trash"></i></button>
                         </td>
                     </tr>
-                    <tr>
-                        <th scope="row">2</th>
-                        <td>Đắc nhân tâm</td>
-                        <td>tran_thi_b</td>
-                        <td><i class="fas fa-star text-warning"></i> 4</td>
-                        <td>2024-05-19</td>
-                        <td>
-                            <button class="btn btn-sm btn-info text-white me-2" data-bs-toggle="modal" data-bs-target="#viewReviewModal"><i class="fas fa-eye"></i></button>
-                            <button class="btn btn-sm btn-danger"><i class="fas fa-trash"></i></button>
-                        </td>
-                    </tr>
-                    <tr>
-                        <th scope="row">3</th>
-                        <td>Nhà giả kim</td>
-                        <td>le_van_c</td>
-                        <td><i class="fas fa-star text-warning"></i> 5</td>
-                        <td>2024-05-18</td>
-                        <td>
-                            <button class="btn btn-sm btn-info text-white me-2" data-bs-toggle="modal" data-bs-target="#viewReviewModal"><i class="fas fa-eye"></i></button>
-                            <button class="btn btn-sm btn-danger"><i class="fas fa-trash"></i></button>
-                        </td>
-                    </tr>
+                    {{/each}}
                 </tbody>
             </table>
         </div>
     </div>
 </div>
 
-<!-- Modal để xem chi tiết đánh giá -->
 <div class="modal fade" id="viewReviewModal" tabindex="-1" aria-labelledby="viewReviewModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
         <div class="modal-content">
@@ -69,19 +47,17 @@
             </div>
             <div class="modal-body">
                 <div class="mb-3">
-                    <strong>Tên sách:</strong> <span id="reviewBookTitle">Hoàng tử bé</span>
+                    <strong>Tên sách:</strong> <span id="reviewBookTitle"></span>
                 </div>
                 <div class="mb-3">
-                    <strong>Người đánh giá:</strong> <span id="reviewUserName">nguyen_van_a</span>
+                    <strong>Người đánh giá:</strong> <span id="reviewUserName"></span>
                 </div>
                 <div class="mb-3">
-                    <strong>Xếp hạng:</strong> <span id="reviewRating"><i class="fas fa-star text-warning"></i> 5</span>
+                    <strong>Xếp hạng:</strong> <span id="reviewRating"></span>
                 </div>
                 <div class="mb-3">
                     <strong>Nội dung:</strong>
-                    <p id="reviewContent" class="mt-2 p-3 bg-light rounded">
-                        Đây là một cuốn sách tuyệt vời, đầy ý nghĩa. Lối viết nhẹ nhàng nhưng lại chứa đựng những triết lý sâu sắc về tình yêu, tình bạn và cuộc sống. Tôi thực sự khuyên bạn nên đọc.
-                    </p>
+                    <p id="reviewContent" class="mt-2 p-3 bg-light rounded"></p>
                 </div>
             </div>
             <div class="modal-footer">
@@ -91,3 +67,34 @@
         </div>
     </div>
 </div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const modal = document.getElementById('viewReviewModal');
+        modal.addEventListener('show.bs.modal', async (event) => {
+            const button = event.relatedTarget;
+            const reviewId = button.getAttribute('data-review-id');
+
+            try {
+                const response = await fetch(`/admin/reviews/${reviewId}`); // Thay đổi URL nếu cần
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                const review = await response.json();
+
+                // Cập nhật nội dung modal
+                document.getElementById('reviewBookTitle').textContent = review.bookId.title;
+                document.getElementById('reviewUserName').textContent = review.userId.username;
+                document.getElementById('reviewRating').innerHTML = `<i class="fas fa-star text-warning"></i> ${review.rating}`;
+                document.getElementById('reviewContent').textContent = review.content;
+            } catch (error) {
+                console.error('Error fetching review details:', error);
+                // Hiển thị thông báo lỗi trong modal nếu có lỗi
+                document.getElementById('reviewBookTitle').textContent = 'Error';
+                document.getElementById('reviewUserName').textContent = 'Error';
+                document.getElementById('reviewRating').textContent = 'Error';
+                document.getElementById('reviewContent').textContent = 'Failed to load review details.';
+            }
+        });
+    });
+</script>
