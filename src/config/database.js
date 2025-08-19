@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 
 const connectToMongo = () => {
   mongoose
-    .connect("mongodb+srv://duclhgcs220253:j3jYDnxd5EVrzFIf@bookreview.ebpv3oi.mongodb.net/bookreview")
+    .connect("mongodb+srv://duclhgcs220253:j3jYDnxd5EVrzFIf@bookreview.ebpv3oi.mongodb.net/test")
     .then(() => {
       console.log(">>> Connected to MongoDB <<<");
     })
