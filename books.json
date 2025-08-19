@@ -1,1509 +1,1502 @@
-{
-  "status": "200",
-  "message": "Books retrieved successfully",
-  "totalBooks": 271190,
-  "currentPage": 1,
-  "totalPages": 1808,
-  "data": [
-    {
-      "book_isbn": "590567330",
-      "book_title": " A Light in the Storm: The Civil War Diary of Amelia Martin, Fenwick Island, Delaware, 1861 (Dear America)",
-      "book_author": "Karen Hesse",
-      "year_of_publication": "1999",
-      "publisher": "Hyperion Books for Children",
-      "image_url_s": "http://images.amazon.com/images/P/0590567330.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0590567330.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0590567330.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "964147726",
-      "book_title": " Always Have Popsicles",
-      "book_author": "Rebecca Harvin",
-      "year_of_publication": "1994",
-      "publisher": "Rebecca L. Harvin",
-      "image_url_s": "http://images.amazon.com/images/P/0964147726.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0964147726.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0964147726.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "942320093",
-      "book_title": " Apple Magic (The Collector's series)",
-      "book_author": "Martina Boudreau",
-      "year_of_publication": "1984",
-      "publisher": "Amer Cooking Guild",
-      "image_url_s": "http://images.amazon.com/images/P/0942320093.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0942320093.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0942320093.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "310232546",
-      "book_title": " Ask Lily (Young Women of Faith: Lily Series, Book 5)",
-      "book_author": "Nancy N. Rue",
-      "year_of_publication": "2001",
-      "publisher": "Zonderkidz",
-      "image_url_s": "http://images.amazon.com/images/P/0310232546.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0310232546.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0310232546.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "962295701",
-      "book_title": " Beyond IBM: Leadership Marketing and Finance for the 1990s",
-      "book_author": "Lou Mobley",
-      "year_of_publication": "1989",
-      "publisher": "Teleonet, Incorporated",
-      "image_url_s": "http://images.amazon.com/images/P/0962295701.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0962295701.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0962295701.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "439188970",
-      "book_title": " Clifford Visita El Hospital (Clifford El Gran Perro Colorado)",
-      "book_author": "Norman Bridwell",
-      "year_of_publication": "2000",
-      "publisher": "Scholastic",
-      "image_url_s": "http://images.amazon.com/images/P/0439188970.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0439188970.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0439188970.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "399151788",
-      "book_title": " Dark Justice",
-      "book_author": "Jack Higgins",
-      "year_of_publication": "2004",
-      "publisher": "Putnam Publishing Group",
-      "image_url_s": "http://images.amazon.com/images/P/0399151788.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0399151788.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0399151788.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "786000015",
-      "book_title": " Deceived",
-      "book_author": "Carla Simpson",
-      "year_of_publication": "1994",
-      "publisher": "Pinnacle Books",
-      "image_url_s": "http://images.amazon.com/images/P/0786000015.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0786000015.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0786000015.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "6250746",
-      "book_title": " Earth Prayers From around the World: 365 Prayers, Poems, and Invocations for Honoring the Earth",
-      "book_author": "Elizabeth Roberts",
-      "year_of_publication": "1991",
-      "publisher": "HarperSanFrancisco",
-      "image_url_s": "http://images.amazon.com/images/P/006250746X.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/006250746X.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/006250746X.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "1566869250",
-      "book_title": " Final Fantasy Anthology: Official Strategy Guide (Brady Games)",
-      "book_author": "David Cassady",
-      "year_of_publication": "1999",
-      "publisher": "BradyGames",
-      "image_url_s": "http://images.amazon.com/images/P/1566869250.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/1566869250.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/1566869250.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "82177350",
-      "book_title": " Flight of Fancy: American Heiresses (Zebra Ballad Romance)",
-      "book_author": "Tracy Cozzens",
-      "year_of_publication": "2002",
-      "publisher": "Kensington Publishing Corporation",
-      "image_url_s": "http://images.amazon.com/images/P/082177350X.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/082177350X.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/082177350X.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "345407709",
-      "book_title": " Garfield Bigger and Better (Garfield (Numbered Paperback))",
-      "book_author": "Jim Davis",
-      "year_of_publication": "1996",
-      "publisher": "Ballantine Books",
-      "image_url_s": "http://images.amazon.com/images/P/0345407709.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0345407709.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0345407709.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "849951577",
-      "book_title": " God's Little Promise Book",
-      "book_author": "Word Pub",
-      "year_of_publication": "1995",
-      "publisher": "J Countryman Books",
-      "image_url_s": "http://images.amazon.com/images/P/0849951577.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0849951577.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0849951577.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "679732578",
-      "book_title": " Good Wives: Image and Reality in the Lives of Women in Northern New England, 1650-1750",
-      "book_author": "Laurel Thatcher Ulrich",
-      "year_of_publication": "1991",
-      "publisher": "Vintage Books USA",
-      "image_url_s": "http://images.amazon.com/images/P/0679732578.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0679732578.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0679732578.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "590509950",
-      "book_title": " Goosebumps Monster Edition 1: Welcome to Dead House, Stay Out of the Basement, and Say Cheese and Die!",
-      "book_author": "R. L. Stine",
-      "year_of_publication": "1995",
-      "publisher": "Scholastic Paperbacks (T)",
-      "image_url_s": "http://images.amazon.com/images/P/0590509950.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0590509950.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0590509950.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "889652015",
-      "book_title": " Harry Potter and the Bible: The Menace Behind the Magick (And the Bible Series)",
-      "book_author": "Richard Abanes",
-      "year_of_publication": "2001",
-      "publisher": "Horizon Books Publishers",
-      "image_url_s": "http://images.amazon.com/images/P/0889652015.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0889652015.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0889652015.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "821760580",
-      "book_title": " Highland Desire (Zebra Splendor Historical Romances)",
-      "book_author": "Joyce Carlow",
-      "year_of_publication": "1998",
-      "publisher": "Zebra Books",
-      "image_url_s": "http://images.amazon.com/images/P/0821760580.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0821760580.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0821760580.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "939431181",
-      "book_title": " Hiking the California Coastal Trail: Oregon to Monterey",
-      "book_author": "Bob Lorentzen",
-      "year_of_publication": "1997",
-      "publisher": "Bored Feet Publications",
-      "image_url_s": "http://images.amazon.com/images/P/0939431181.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0939431181.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0939431181.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "590853112",
-      "book_title": " It Takes Two",
-      "book_author": "Nancy Krlik",
-      "year_of_publication": "1995",
-      "publisher": "Scholastic",
-      "image_url_s": "http://images.amazon.com/images/P/0590853112.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0590853112.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0590853112.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "590449273",
-      "book_title": " LA Gallinita Roja/the Little Red Hen",
-      "book_author": "Lucinda McQueen",
-      "year_of_publication": "1995",
-      "publisher": "Scholastic",
-      "image_url_s": "http://images.amazon.com/images/P/0590449273.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0590449273.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0590449273.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "59093483",
-      "book_title": " Little Comic Shop of Horrors (Give Yourself Goosebumps, Book 17)",
-      "book_author": "R. L. Stine",
-      "year_of_publication": "1997",
-      "publisher": "Apple (Scholastic)",
-      "image_url_s": "http://images.amazon.com/images/P/059093483X.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/059093483X.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/059093483X.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "735618372",
-      "book_title": " Microsoft Application Architecture For Microsoft .net: Designing Application (Pro-Other)",
-      "book_author": "Microsoft Corporation Staff",
-      "year_of_publication": "2004",
-      "publisher": "Microsoft Press",
-      "image_url_s": "http://images.amazon.com/images/P/0735618372.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0735618372.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0735618372.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "451205480",
-      "book_title": " Murder of a Sleeping Beauty (Scumble River Mysteries (Paperback))",
-      "book_author": "Denise Swanson",
-      "year_of_publication": "2002",
-      "publisher": "Signet Book",
-      "image_url_s": "http://images.amazon.com/images/P/0451205480.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0451205480.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0451205480.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "1567230148",
-      "book_title": " Mystery Mile",
-      "book_author": "Margery Allingham",
-      "year_of_publication": "1994",
-      "publisher": "Yestermorrow Inc",
-      "image_url_s": "http://images.amazon.com/images/P/1567230148.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/1567230148.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/1567230148.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "888020910",
-      "book_title": " Nonbook Materials: The Organization of Integrated Collections",
-      "book_author": "Jean Riddle Weihs",
-      "year_of_publication": "1973",
-      "publisher": "Canadian Library Association",
-      "image_url_s": "http://images.amazon.com/images/P/0888020910.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0888020910.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0888020910.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "439106591",
-      "book_title": " Pokemon: The Official Collector's Sticker Book",
-      "book_author": "Maria S. Barbo",
-      "year_of_publication": "1999",
-      "publisher": "Scholastic",
-      "image_url_s": "http://images.amazon.com/images/P/0439106591.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0439106591.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0439106591.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "671019155",
-      "book_title": " Q-Space (Star Trek The Next Generation, Book 47)",
-      "book_author": "Greg Cox",
-      "year_of_publication": "1998",
-      "publisher": "Star Trek",
-      "image_url_s": "http://images.amazon.com/images/P/0671019155.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0671019155.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0671019155.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "67101921",
-      "book_title": " Q-Zone (Star Trek The Next Generation, Book 48)",
-      "book_author": "Greg Cox",
-      "year_of_publication": "1998",
-      "publisher": "Star Trek",
-      "image_url_s": "http://images.amazon.com/images/P/067101921X.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/067101921X.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/067101921X.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "810110318",
-      "book_title": " Stories of an Imaginary Childhood",
-      "book_author": "Melvin Jules Bukiet",
-      "year_of_publication": "1991",
-      "publisher": "Northwestern Univ Pr",
-      "image_url_s": "http://images.amazon.com/images/P/0810110318.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0810110318.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0810110318.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "1563892650",
-      "book_title": " Summonings: Books of Magic, Vol. 2",
-      "book_author": "John Ney Rieber",
-      "year_of_publication": "1996",
-      "publisher": "DC Comics",
-      "image_url_s": "http://images.amazon.com/images/P/1563892650.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/1563892650.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/1563892650.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "1561568805",
-      "book_title": " Tales of Terror and Suspense",
-      "book_author": "Allen Edgar",
-      "year_of_publication": "1998",
-      "publisher": "Kidsbooks",
-      "image_url_s": "http://images.amazon.com/images/P/1561568805.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/1561568805.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/1561568805.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "345279263",
-      "book_title": " the Devil Will Drag You Under",
-      "book_author": "Jack L Chalker",
-      "year_of_publication": "1979",
-      "publisher": "Ballantine Books",
-      "image_url_s": "http://images.amazon.com/images/P/0345279263.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0345279263.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0345279263.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "807207543",
-      "book_title": " The Secret of the Old Clock (Nancy Drew, Book 1)",
-      "book_author": "Carolyn Keene",
-      "year_of_publication": "2002",
-      "publisher": "Imagination Studio",
-      "image_url_s": "http://images.amazon.com/images/P/0807207543.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0807207543.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0807207543.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "1576737772",
-      "book_title": " The Tender Commandments : Reflections on the Father's Love",
-      "book_author": "Ron Mehl",
-      "year_of_publication": "2001",
-      "publisher": "Multnomah",
-      "image_url_s": "http://images.amazon.com/images/P/1576737772.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/1576737772.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/1576737772.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "44048989",
-      "book_title": " The Town Cats and Other Tales",
-      "book_author": "Lloyd Alexander",
-      "year_of_publication": "1990",
-      "publisher": "Yearling Books",
-      "image_url_s": "http://images.amazon.com/images/P/044048989X.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/044048989X.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/044048989X.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "440987261",
-      "book_title": " This Place Has No Atmosphere (Laurel-Leaf Books)",
-      "book_author": "Paula Danziger",
-      "year_of_publication": "1987",
-      "publisher": "Random House Childrens Pub",
-      "image_url_s": "http://images.amazon.com/images/P/0440987261.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0440987261.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0440987261.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "670856193",
-      "book_title": " Tough Loser",
-      "book_author": "Barthe Declements",
-      "year_of_publication": "1994",
-      "publisher": "Viking Books",
-      "image_url_s": "http://images.amazon.com/images/P/0670856193.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0670856193.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0670856193.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "646060422",
-      "book_title": " Travel Companion Chile and Easter Island (Travel Companion)",
-      "book_author": "Gerry Leitner",
-      "year_of_publication": "1996",
-      "publisher": "Hunter Publishing",
-      "image_url_s": "http://images.amazon.com/images/P/0646060422.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0646060422.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0646060422.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "942025857",
-      "book_title": " Twenty Thousand Leagues Under the Sea (Illustrated Classics)",
-      "book_author": "Jules Verne",
-      "year_of_publication": "1990",
-      "publisher": "Kidsbooks.Com",
-      "image_url_s": "http://images.amazon.com/images/P/0942025857.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0942025857.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0942025857.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "752517783",
-      "book_title": " Weird News Stories",
-      "book_author": "Colin Wilson",
-      "year_of_publication": "1996",
-      "publisher": "Siena",
-      "image_url_s": "http://images.amazon.com/images/P/0752517783.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0752517783.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0752517783.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "439389364",
-      "book_title": " Zap!: Science Fair Surprise! (Abracadabra!, Book 5)",
-      "book_author": "Peter Lerangis",
-      "year_of_publication": "2003",
-      "publisher": "Scholastic",
-      "image_url_s": "http://images.amazon.com/images/P/0439389364.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0439389364.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0439389364.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "1565920317",
-      "book_title": "!%@ (A Nutshell handbook)",
-      "book_author": "Donnalyn Frey",
-      "year_of_publication": "1993",
-      "publisher": "O'Reilly",
-      "image_url_s": "http://images.amazon.com/images/P/1565920317.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/1565920317.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/1565920317.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "1565920465",
-      "book_title": "!%@ (A Nutshell handbook)",
-      "book_author": "Donnalyn Frey",
-      "year_of_publication": "1994",
-      "publisher": "O'Reilly",
-      "image_url_s": "http://images.amazon.com/images/P/1565920465.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/1565920465.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/1565920465.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "133989429",
-      "book_title": "!Arriba! Comunicacion y cultura",
-      "book_author": "Eduardo Zayas-Bazan",
-      "year_of_publication": "1996",
-      "publisher": "Prentice Hall",
-      "image_url_s": "http://images.amazon.com/images/P/0133989429.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0133989429.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0133989429.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "13327974",
-      "book_title": "!Trato hecho!: Spanish for Real Life, Combined Edition",
-      "book_author": "John T. McMinn",
-      "year_of_publication": "1995",
-      "publisher": "Prentice Hall",
-      "image_url_s": "http://images.amazon.com/images/P/013327974X.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/013327974X.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/013327974X.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "452279186",
-      "book_title": "!Yo!",
-      "book_author": "Julia Alvarez",
-      "year_of_publication": "1997",
-      "publisher": "Plume Books",
-      "image_url_s": "http://images.amazon.com/images/P/0452279186.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0452279186.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0452279186.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "836218205",
-      "book_title": "$14 In The Bank (Cathy Collection)",
-      "book_author": "Cathy Guisewite",
-      "year_of_publication": "1990",
-      "publisher": "Andrews McMeel Publishing",
-      "image_url_s": "http://images.amazon.com/images/P/0836218205.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0836218205.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0836218205.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "1592000673",
-      "book_title": "$30 Film School",
-      "book_author": "Michael W. Dean",
-      "year_of_publication": "2003",
-      "publisher": "Muska &amp; Lipman Publishing",
-      "image_url_s": "http://images.amazon.com/images/P/1592000673.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/1592000673.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/1592000673.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "1588204030",
-      "book_title": "$oft Money: The True Power in Our Nation's Capital",
-      "book_author": "E. L. Burton",
-      "year_of_publication": "2000",
-      "publisher": "1stBooks Library",
-      "image_url_s": "http://images.amazon.com/images/P/1588204030.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/1588204030.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/1588204030.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "812506448",
-      "book_title": "$Weet Deal$",
-      "book_author": "Brian Lysaght",
-      "year_of_publication": "1986",
-      "publisher": "Tor Books",
-      "image_url_s": "http://images.amazon.com/images/P/0812506448.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0812506448.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0812506448.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "563208422",
-      "book_title": "' Allo 'Allo: the War Diaries of Rene Artois",
-      "book_author": "John Haselden",
-      "year_of_publication": "1989",
-      "publisher": "BBC Consumer Publishing",
-      "image_url_s": "http://images.amazon.com/images/P/0563208422.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0563208422.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0563208422.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "708989179",
-      "book_title": "' L' Is for Lawless",
-      "book_author": "Sue Grafton",
-      "year_of_publication": "1996",
-      "publisher": "F A Thorpe (Publishers)",
-      "image_url_s": "http://images.amazon.com/images/P/0708989179.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0708989179.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0708989179.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "342105634",
-      "book_title": "' Mein verwundetes Herz'. Das Leben der Lilli Jahn 1900 - 1944.",
-      "book_author": "Martin Doerry",
-      "year_of_publication": "2002",
-      "publisher": "Dva",
-      "image_url_s": "http://images.amazon.com/images/P/342105634X.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/342105634X.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/342105634X.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "3462035029",
-      "book_title": "' Sehr geehrtes Arschloch.' Briefe an den Regierungspr�?¤sidenten.",
-      "book_author": "Franz-Josef Antwerpes",
-      "year_of_publication": "2000",
-      "publisher": "Kiepenheuer &amp; Witsch",
-      "image_url_s": "http://images.amazon.com/images/P/3462035029.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/3462035029.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/3462035029.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "3492213472",
-      "book_title": "' Sie belieben wohl zu scherzen, Mr. Feynman.'. Abenteuer eines neugierigen Physikers.",
-      "book_author": "Richard P. Feynman",
-      "year_of_publication": "1996",
-      "publisher": "Piper",
-      "image_url_s": "http://images.amazon.com/images/P/3492213472.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/3492213472.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/3492213472.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "3257229356",
-      "book_title": "' Small g'. Eine Sommeridylle.",
-      "book_author": "Patricia Highsmith",
-      "year_of_publication": "1996",
-      "publisher": "Diogenes Verlag",
-      "image_url_s": "http://images.amazon.com/images/P/3257229356.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/3257229356.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/3257229356.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "1857820045",
-      "book_title": "' Til the Fat Lady Sings",
-      "book_author": "Stuart White",
-      "year_of_publication": "1992",
-      "publisher": "Blake Publishing Ltd",
-      "image_url_s": "http://images.amazon.com/images/P/1857820045.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/1857820045.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/1857820045.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "754004988",
-      "book_title": "' Tis",
-      "book_author": "Frank McCourt",
-      "year_of_publication": "0",
-      "publisher": "Chivers Press Ltd",
-      "image_url_s": "http://images.amazon.com/images/P/0754004988.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0754004988.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0754004988.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "3492236103",
-      "book_title": "' Warum sagen Sie nicht, was Sie meinen?'",
-      "book_author": "Deborah Tannen",
-      "year_of_publication": "2002",
-      "publisher": "Piper",
-      "image_url_s": "http://images.amazon.com/images/P/3492236103.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/3492236103.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/3492236103.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "61057819",
-      "book_title": "'48",
-      "book_author": "James Herbert",
-      "year_of_publication": "1998",
-      "publisher": "Eos",
-      "image_url_s": "http://images.amazon.com/images/P/0061057819.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0061057819.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0061057819.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "792277295",
-      "book_title": "'A Hell of a Place to Lose a Cow': An American Hitchhiking Odyssey",
-      "book_author": "Tim Brookes",
-      "year_of_publication": "2001",
-      "publisher": "National Geographic",
-      "image_url_s": "http://images.amazon.com/images/P/0792277295.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0792277295.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0792277295.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "792276833",
-      "book_title": "'A Hell of a Place to Lose a Cow': An American Hitchhiking Odyssey",
-      "book_author": "Tim Brookes",
-      "year_of_publication": "2000",
-      "publisher": "National Geographic",
-      "image_url_s": "http://images.amazon.com/images/P/0792276833.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0792276833.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0792276833.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "941925196",
-      "book_title": "'California Historical Landmarks'",
-      "book_author": "California State Parks Office of Historic Preservation",
-      "year_of_publication": "0",
-      "publisher": "California Dept Parks &amp;",
-      "image_url_s": "http://images.amazon.com/images/P/0941925196.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0941925196.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0941925196.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "3426616025",
-      "book_title": "'Das geht alles von Ihrer Zeit ab.'",
-      "book_author": "Piet Klocke",
-      "year_of_publication": "2000",
-      "publisher": "Droemer Knaur",
-      "image_url_s": "http://images.amazon.com/images/P/3426616025.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/3426616025.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/3426616025.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "3423305215",
-      "book_title": "'Eine gute Frau hat keinen Kopf'. Europ�?¤ische Sprichw�?¶rter �?¼ber Frauen.",
-      "book_author": "Mineke Schipper",
-      "year_of_publication": "1996",
-      "publisher": "Dtv",
-      "image_url_s": "http://images.amazon.com/images/P/3423305215.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/3423305215.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/3423305215.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "805054464",
-      "book_title": "'G' Is for Grafton : The World of Kinsey Millhone",
-      "book_author": "Natalie Hevener Kaufman",
-      "year_of_publication": "1997",
-      "publisher": "Henry Holt &amp; Company",
-      "image_url_s": "http://images.amazon.com/images/P/0805054464.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0805054464.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0805054464.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "394714628",
-      "book_title": "'Gentlemen Prefer Blondes' 'but Gentlemen Marry Brunettes'",
-      "book_author": "Anita Loos",
-      "year_of_publication": "1983",
-      "publisher": "Vintage Books",
-      "image_url_s": "http://images.amazon.com/images/P/0394714628.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0394714628.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0394714628.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "1889388009",
-      "book_title": "'Great Speeches for Criticism and Analysis'",
-      "book_author": "Lloyd Rohler",
-      "year_of_publication": "1997",
-      "publisher": "Alistair Press (IN)",
-      "image_url_s": "http://images.amazon.com/images/P/1889388009.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/1889388009.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/1889388009.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "854098089",
-      "book_title": "'Isms: a dictionary of words ending in -ism, -ology, and -phobia,: With some similar terms, arranged in subject order",
-      "book_author": "Eng Sheffield",
-      "year_of_publication": "1972",
-      "publisher": "Corporation of Sheffield; Wakefield, EP Publishing Ltd",
-      "image_url_s": "http://images.amazon.com/images/P/0854098089.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0854098089.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0854098089.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "743246063",
-      "book_title": "'Mater Biscuit : A Homegrown Novel",
-      "book_author": "Julie Cannon",
-      "year_of_publication": "2004",
-      "publisher": "Touchstone",
-      "image_url_s": "http://images.amazon.com/images/P/0743246063.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0743246063.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0743246063.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "3203850273",
-      "book_title": "'Mit Verlaub, Sie sind ein Arschloch.' Joschkas sch�?¤rfste Spr�?¼che.",
-      "book_author": "Matthias Ohnsmann",
-      "year_of_publication": "2001",
-      "publisher": "Europa, Hamburg",
-      "image_url_s": "http://images.amazon.com/images/P/3203850273.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/3203850273.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/3203850273.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "9050180590",
-      "book_title": "'n Hollandse stadsguerrilla: Terugblik op de Rode Jeugd",
-      "book_author": "Frans Dekkers",
-      "year_of_publication": "1988",
-      "publisher": "Balans",
-      "image_url_s": "http://images.amazon.com/images/P/9050180590.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/9050180590.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/9050180590.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "158663061",
-      "book_title": "'N Sync",
-      "book_author": "Lexi Martin",
-      "year_of_publication": "2000",
-      "publisher": "MetroBooks (NY)",
-      "image_url_s": "http://images.amazon.com/images/P/158663061X.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/158663061X.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/158663061X.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "671032771",
-      "book_title": "'N Sync With JC",
-      "book_author": "Nancy Krulik",
-      "year_of_publication": "1999",
-      "publisher": "Simon Spotlight Entertainment",
-      "image_url_s": "http://images.amazon.com/images/P/0671032771.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0671032771.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0671032771.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "671032763",
-      "book_title": "'N Sync With Justin",
-      "book_author": "Matt Netter",
-      "year_of_publication": "1999",
-      "publisher": "Simon Spotlight Entertainment",
-      "image_url_s": "http://images.amazon.com/images/P/0671032763.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0671032763.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0671032763.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "671034707",
-      "book_title": "'N SYNC: TEARIN' UP THE CHARTS",
-      "book_author": "Matt Netter",
-      "year_of_publication": "1998",
-      "publisher": "Simon Spotlight Entertainment",
-      "image_url_s": "http://images.amazon.com/images/P/0671034707.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0671034707.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0671034707.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "312971982",
-      "book_title": "'N Sync: Tearing Up Our Hearts",
-      "book_author": "Anna Louise Golden",
-      "year_of_publication": "1999",
-      "publisher": "St. Martin's Press",
-      "image_url_s": "http://images.amazon.com/images/P/0312971982.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0312971982.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0312971982.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "374521387",
-      "book_title": "'night, Mother : A Play (Mermaid Dramabook)",
-      "book_author": "Marsha Norman",
-      "year_of_publication": "1983",
-      "publisher": "Hill and Wang",
-      "image_url_s": "http://images.amazon.com/images/P/0374521387.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0374521387.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0374521387.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "451138236",
-      "book_title": "'Now What Are You Up To, Herman?'",
-      "book_author": "Jim Unger",
-      "year_of_publication": "1985",
-      "publisher": "New American Library",
-      "image_url_s": "http://images.amazon.com/images/P/0451138236.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0451138236.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0451138236.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "738861618",
-      "book_title": "'O Au No Keia: Voices from Hawai'I's Mahu and Transgender Communities",
-      "book_author": "Andrew Matzner",
-      "year_of_publication": "2001",
-      "publisher": "Xlibris Corporation",
-      "image_url_s": "http://images.amazon.com/images/P/0738861618.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0738861618.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0738861618.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "942237196",
-      "book_title": "'Romance of Paula Vaughn'",
-      "book_author": "Paula Vaughan",
-      "year_of_publication": "1993",
-      "publisher": "Leisure Arts Inc.",
-      "image_url_s": "http://images.amazon.com/images/P/0942237196.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0942237196.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0942237196.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "842371907",
-      "book_title": "'Round the Corner (Sister Circle)",
-      "book_author": "Vonette Bright",
-      "year_of_publication": "2003",
-      "publisher": "Tyndale House Publishers",
-      "image_url_s": "http://images.amazon.com/images/P/0842371907.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0842371907.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0842371907.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "451168089",
-      "book_title": "'Salem's Lot",
-      "book_author": "Stephen King",
-      "year_of_publication": "1990",
-      "publisher": "Signet Book",
-      "image_url_s": "http://images.amazon.com/images/P/0451168089.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0451168089.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0451168089.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "385007515",
-      "book_title": "'Salem's Lot",
-      "book_author": "Stephen King",
-      "year_of_publication": "1993",
-      "publisher": "Doubleday Books",
-      "image_url_s": "http://images.amazon.com/images/P/0385007515.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0385007515.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0385007515.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "67103975",
-      "book_title": "'Salem's Lot",
-      "book_author": "Stephen King",
-      "year_of_publication": "2000",
-      "publisher": "Pocket",
-      "image_url_s": "http://images.amazon.com/images/P/067103975X.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/067103975X.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/067103975X.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "43915555",
-      "book_title": "'Scope Out Your Life: What Your Sign Says About You (All about You (Scholastic))",
-      "book_author": "Julia Marsden",
-      "year_of_publication": "2000",
-      "publisher": "Scholastic",
-      "image_url_s": "http://images.amazon.com/images/P/043915555X.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/043915555X.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/043915555X.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "679742263",
-      "book_title": "'The Moon by Whale Light: And Other Adventures Among Bats, Penguins, Crocodilians, and Whales",
-      "book_author": "Diane Ackerman",
-      "year_of_publication": "1992",
-      "publisher": "Vintage Books USA",
-      "image_url_s": "http://images.amazon.com/images/P/0679742263.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0679742263.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0679742263.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "446531758",
-      "book_title": "'Til Death Do Us Part",
-      "book_author": "Kate White",
-      "year_of_publication": "2004",
-      "publisher": "Warner Books",
-      "image_url_s": "http://images.amazon.com/images/P/0446531758.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0446531758.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0446531758.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "446601233",
-      "book_title": "'til the Real Thing Comes Along",
-      "book_author": "Iris Ranier Dart",
-      "year_of_publication": "1995",
-      "publisher": "Warner Books",
-      "image_url_s": "http://images.amazon.com/images/P/0446601233.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0446601233.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0446601233.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "373821875",
-      "book_title": "'Til There Was You",
-      "book_author": "Kathleen Eagle",
-      "year_of_publication": "1999",
-      "publisher": "Harlequin Books",
-      "image_url_s": "http://images.amazon.com/images/P/0373821875.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0373821875.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0373821875.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "373095767",
-      "book_title": "'Til There Was You (Special Edition, No 576)",
-      "book_author": "Kathleen Eagle",
-      "year_of_publication": "1989",
-      "publisher": "Silhouette",
-      "image_url_s": "http://images.amazon.com/images/P/0373095767.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0373095767.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0373095767.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "373270607",
-      "book_title": "'Til We Meet Again (The Circle) (Silhouette Shadows, No 60)",
-      "book_author": "Kimberly Raye",
-      "year_of_publication": "1995",
-      "publisher": "Silhouette",
-      "image_url_s": "http://images.amazon.com/images/P/0373270607.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0373270607.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0373270607.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "743246934",
-      "book_title": "'Tis Herself : A Memoir",
-      "book_author": "Maureen O'Hara",
-      "year_of_publication": "2004",
-      "publisher": "Simon &amp; Schuster",
-      "image_url_s": "http://images.amazon.com/images/P/0743246934.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0743246934.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0743246934.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "821757814",
-      "book_title": "'Tis The Season (Christmas Anthology): Under the Mistletoe/A Baby for Christmas/Christmas Angel/Home for Christmas",
-      "book_author": "Kat Martin",
-      "year_of_publication": "1997",
-      "publisher": "Kensington Pub Corp (Mm)",
-      "image_url_s": "http://images.amazon.com/images/P/0821757814.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0821757814.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0821757814.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "373291833",
-      "book_title": "'Tis The Season (Harlequin Historical Series, No. 583)",
-      "book_author": "Susan Spencer Paul",
-      "year_of_publication": "2001",
-      "publisher": "Harlequin",
-      "image_url_s": "http://images.amazon.com/images/P/0373291833.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0373291833.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0373291833.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "373253788",
-      "book_title": "'Tis The Season (Harlequin Temptation, No 278)",
-      "book_author": "Vicki Lewis Thompson",
-      "year_of_publication": "1989",
-      "publisher": "Harlequin",
-      "image_url_s": "http://images.amazon.com/images/P/0373253788.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0373253788.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0373253788.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "373709528",
-      "book_title": "'Tis The Season (The Daddy School) (Superromance, 952)",
-      "book_author": "Judith Arnold",
-      "year_of_publication": "2000",
-      "publisher": "Harlequin",
-      "image_url_s": "http://images.amazon.com/images/P/0373709528.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0373709528.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0373709528.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "225218",
-      "book_title": "'Tis the Season to Be Crabby (Festive Peanuts)",
-      "book_author": "Charles M. Schulz",
-      "year_of_publication": "1996",
-      "publisher": "HarperEntertainment",
-      "image_url_s": "http://images.amazon.com/images/P/000225218X.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/000225218X.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/000225218X.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "684864495",
-      "book_title": "'Tis: A Memoir",
-      "book_author": "Frank McCourt",
-      "year_of_publication": "1999",
-      "publisher": "Scribner",
-      "image_url_s": "http://images.amazon.com/images/P/0684864495.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0684864495.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0684864495.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "373056842",
-      "book_title": "'Twas The Night (Harlequin Desire No 684)",
-      "book_author": "Ellen Small",
-      "year_of_publication": "1991",
-      "publisher": "Silhouette",
-      "image_url_s": "http://images.amazon.com/images/P/0373056842.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0373056842.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0373056842.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "395643740",
-      "book_title": "'Twas the Night Before Christmas",
-      "book_author": "Jessie Wilcox Smith",
-      "year_of_publication": "1992",
-      "publisher": "Houghton Mifflin",
-      "image_url_s": "http://images.amazon.com/images/P/0395643740.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0395643740.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0395643740.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "831771593",
-      "book_title": "'Webster's New Business Writer's Guide (Webster's Dictionary Series)",
-      "book_author": "Merriam-Webster",
-      "year_of_publication": "1998",
-      "publisher": "Smithmark Publishers",
-      "image_url_s": "http://images.amazon.com/images/P/0831771593.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0831771593.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0831771593.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "440428475",
-      "book_title": "(George)",
-      "book_author": "E.L. Konigsburg",
-      "year_of_publication": "1985",
-      "publisher": "Bantam Books (Mm)",
-      "image_url_s": "http://images.amazon.com/images/P/0440428475.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0440428475.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0440428475.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "373512287",
-      "book_title": "(Quinn's Way (Harlequin American Romance, No. 558)",
-      "book_author": "Rebecca Flanders",
-      "year_of_publication": "2003",
-      "publisher": "Silhouette Books",
-      "image_url_s": "http://images.amazon.com/images/P/0373512287.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0373512287.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0373512287.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "552547344",
-      "book_title": "(Un)arranged Marriage",
-      "book_author": "Bali Rai",
-      "year_of_publication": "2001",
-      "publisher": "Corgi Childrens",
-      "image_url_s": "http://images.amazon.com/images/P/0552547344.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0552547344.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0552547344.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "1568580010",
-      "book_title": "* * *: A Novel",
-      "book_author": "Michael Brodsky",
-      "year_of_publication": "1994",
-      "publisher": "Pub Group West",
-      "image_url_s": "http://images.amazon.com/images/P/1568580010.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/1568580010.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/1568580010.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "3795726522",
-      "book_title": "--fast ein Meisterwerk: Die Welt der Musik in Anekdoten : eine heitere Musik-Soziologie",
-      "book_author": "Stephan Pflicht",
-      "year_of_publication": "1987",
-      "publisher": "Schott",
-      "image_url_s": "http://images.amazon.com/images/P/3795726522.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/3795726522.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/3795726522.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "8700224367",
-      "book_title": "--men i hvert fald i live",
-      "book_author": "Cecil B²dker",
-      "year_of_publication": "1995",
-      "publisher": "Gyldendal",
-      "image_url_s": "http://images.amazon.com/images/P/8700224367.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/8700224367.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/8700224367.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "8485704061",
-      "book_title": "--Olivetti, Moulinex, Chaffoteaux et Maury (Quaderns crema. Narrativa)",
-      "book_author": "Quim Monzó",
-      "year_of_publication": "1980",
-      "publisher": "Edicions dels Quaderns Crema",
-      "image_url_s": "http://images.amazon.com/images/P/8485704061.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/8485704061.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/8485704061.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "3894721057",
-      "book_title": "--Und morgen die ganze Welt?: Rechstextreme Publizistik in Westeuropa",
-      "book_author": "Rainer Fromm",
-      "year_of_publication": "1994",
-      "publisher": "Schüren",
-      "image_url_s": "http://images.amazon.com/images/P/3894721057.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/3894721057.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/3894721057.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "8408012312",
-      "book_title": "--y los 40 ladrones (Colección Fábula)",
-      "book_author": "Fernando Vizcaíno Casas",
-      "year_of_publication": "1994",
-      "publisher": "Planeta",
-      "image_url_s": "http://images.amazon.com/images/P/8408012312.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/8408012312.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/8408012312.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "743415183",
-      "book_title": "... And for Starters",
-      "book_author": "Victoria Routledge",
-      "year_of_publication": "2001",
-      "publisher": "Simon &amp; Schuster (Trade Division)",
-      "image_url_s": "http://images.amazon.com/images/P/0743415183.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0743415183.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0743415183.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "3499108682",
-      "book_title": "... steigen aus... maschine brennt... 10 Fliegergeschichten.",
-      "book_author": "Roald Dahl",
-      "year_of_publication": "1966",
-      "publisher": "Rowohlt Tb.",
-      "image_url_s": "http://images.amazon.com/images/P/3499108682.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/3499108682.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/3499108682.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "2890452107",
-      "book_title": "... vol ... à bord ... du.Concordia (Her Les Aventures de Michel Labre)",
-      "book_author": "Madeleine Gaudreault-Labrecque",
-      "year_of_publication": "1979",
-      "publisher": "�?ditions Hurtubise HMH",
-      "image_url_s": "http://images.amazon.com/images/P/2890452107.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/2890452107.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/2890452107.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "3729606409",
-      "book_title": "... wenn du es nicht lassen kannst.",
-      "book_author": "Gisela Rudolf",
-      "year_of_publication": "2002",
-      "publisher": "Zytglogge-Verlag",
-      "image_url_s": "http://images.amazon.com/images/P/3729606409.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/3729606409.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/3729606409.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "6754376",
-      "book_title": "...and Conflict (Sugar Secrets S.)",
-      "book_author": "Mel Sparke",
-      "year_of_publication": "2000",
-      "publisher": "Collins",
-      "image_url_s": "http://images.amazon.com/images/P/0006754376.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0006754376.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0006754376.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "425174409",
-      "book_title": "...And Ladies of the Club",
-      "book_author": "Helen Hooven Santmyer",
-      "year_of_publication": "2000",
-      "publisher": "Berkley Publishing Group",
-      "image_url_s": "http://images.amazon.com/images/P/0425174409.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0425174409.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0425174409.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "690091184",
-      "book_title": "...And Now Miguel",
-      "book_author": "Joseph Krumgold",
-      "year_of_publication": "1953",
-      "publisher": "HarperCollins",
-      "image_url_s": "http://images.amazon.com/images/P/0690091184.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0690091184.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0690091184.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "6440143",
-      "book_title": "...And Now Miguel",
-      "book_author": "Joseph Krumgold",
-      "year_of_publication": "1984",
-      "publisher": "HarperTrophy",
-      "image_url_s": "http://images.amazon.com/images/P/006440143X.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/006440143X.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/006440143X.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "1566843464",
-      "book_title": "...And The FAT Came Back",
-      "book_author": "Bonnie Chatelain",
-      "year_of_publication": "1999",
-      "publisher": "D. J. Inkers",
-      "image_url_s": "http://images.amazon.com/images/P/1566843464.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/1566843464.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/1566843464.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "684857340",
-      "book_title": "...AND THE HORSE HE RODE IN ON : THE PEOPLE V. KENNETH STARR",
-      "book_author": "James Carville",
-      "year_of_publication": "1998",
-      "publisher": "Simon &amp; Schuster",
-      "image_url_s": "http://images.amazon.com/images/P/0684857340.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0684857340.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0684857340.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "671024981",
-      "book_title": "...Sacrifice of Angels:  The Dominion War Book 4 (Star Trek Deep Space Nine)",
-      "book_author": "Diane Carey",
-      "year_of_publication": "1998",
-      "publisher": "Star Trek",
-      "image_url_s": "http://images.amazon.com/images/P/0671024981.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0671024981.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0671024981.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "670324329",
-      "book_title": ".44",
-      "book_author": "Jimmy Breslin",
-      "year_of_publication": "1978",
-      "publisher": "Viking Press",
-      "image_url_s": "http://images.amazon.com/images/P/0670324329.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0670324329.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0670324329.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "843943572",
-      "book_title": ".44 (Leisure Western)",
-      "book_author": "H. A. Derosso",
-      "year_of_publication": "1998",
-      "publisher": "Leisure Books",
-      "image_url_s": "http://images.amazon.com/images/P/0843943572.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0843943572.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0843943572.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "1591824141",
-      "book_title": ".Hack: //Legend of the Twilight, Vol. 1",
-      "book_author": "Tatsuya Hamazaki",
-      "year_of_publication": "2003",
-      "publisher": "Tokyopop",
-      "image_url_s": "http://images.amazon.com/images/P/1591824141.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/1591824141.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/1591824141.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "159182415",
-      "book_title": ".Hack: //Legend of the Twilight, Vol. 2",
-      "book_author": "Tatsuya Hamazaki",
-      "year_of_publication": "2003",
-      "publisher": "Tokyopop",
-      "image_url_s": "http://images.amazon.com/images/P/159182415X.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/159182415X.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/159182415X.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "596005059",
-      "book_title": ".NET Framework Essentials, 3rd Edition",
-      "book_author": "Thuan L. Thai",
-      "year_of_publication": "2003",
-      "publisher": "O'Reilly",
-      "image_url_s": "http://images.amazon.com/images/P/0596005059.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0596005059.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0596005059.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "2266022253",
-      "book_title": "006781: Bk.1 Gags De Boule Et Bil",
-      "book_author": "ROBA",
-      "year_of_publication": "0",
-      "publisher": "Pocket",
-      "image_url_s": "http://images.amazon.com/images/P/2266022253.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/2266022253.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/2266022253.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "8401461189",
-      "book_title": "007 El Mundo Nunca Es Suficiente",
-      "book_author": "Raymond Benson",
-      "year_of_publication": "1999",
-      "publisher": "Plaza &amp; Janes Editores, S.A.",
-      "image_url_s": "http://images.amazon.com/images/P/8401461189.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/8401461189.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/8401461189.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "312870582",
-      "book_title": "01-01-00: A Novel of the Millennium",
-      "book_author": "R. J. Pineiro",
-      "year_of_publication": "1999",
-      "publisher": "Forge",
-      "image_url_s": "http://images.amazon.com/images/P/0312870582.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0312870582.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0312870582.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "812568710",
-      "book_title": "01-01-00: The Novel of the Millennium",
-      "book_author": "R. J. Pineiro",
-      "year_of_publication": "1999",
-      "publisher": "Tor Books (Mm)",
-      "image_url_s": "http://images.amazon.com/images/P/0812568710.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0812568710.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0812568710.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "563368047",
-      "book_title": "03 NODDY AND HIS CAR",
-      "book_author": "Noddy Library",
-      "year_of_publication": "1992",
-      "publisher": "IGC Australia (In Good Care)",
-      "image_url_s": "http://images.amazon.com/images/P/0563368047.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0563368047.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0563368047.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "373482647",
-      "book_title": "0373953194 Christmas Stories 1993",
-      "book_author": "Lisa Jackson",
-      "year_of_publication": "1993",
-      "publisher": "Silhouette",
-      "image_url_s": "http://images.amazon.com/images/P/0373482647.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0373482647.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0373482647.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "43492783",
-      "book_title": "06 Henry The Green Engine",
-      "book_author": "Awdry",
-      "year_of_publication": "1951",
-      "publisher": "Egmont Childrens Books",
-      "image_url_s": "http://images.amazon.com/images/P/043492783X.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/043492783X.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/043492783X.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "3442013453",
-      "book_title": "08/15 Heute",
-      "book_author": "Kirst",
-      "year_of_publication": "0",
-      "publisher": "Wilhelm Goldmann Verlag GmbH",
-      "image_url_s": "http://images.amazon.com/images/P/3442013453.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/3442013453.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/3442013453.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "1591090113",
-      "book_title": "09/11 8:48 am: Documenting America's Greatest Tragedy",
-      "book_author": "Ethan Casey (editor) BlueEar.com",
-      "year_of_publication": "2001",
-      "publisher": "BlueEar.com",
-      "image_url_s": "http://images.amazon.com/images/P/1591090113.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/1591090113.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/1591090113.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "3219103103",
-      "book_title": "1 + 2=4: Das Gigelchen geht in die Schule",
-      "book_author": "Johannes Paul",
-      "year_of_publication": "1985",
-      "publisher": "Betz",
-      "image_url_s": "http://images.amazon.com/images/P/3219103103.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/3219103103.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/3219103103.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "1564585344",
-      "book_title": "1 2 3 Board Book",
-      "book_author": "Snapshot",
-      "year_of_publication": "1994",
-      "publisher": "Dorling Kindersley Publishing",
-      "image_url_s": "http://images.amazon.com/images/P/1564585344.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/1564585344.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/1564585344.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "939217449",
-      "book_title": "1 2 3 Draw Cars, Trucks, and Other Vehicles: A Step-By-Step Guide (1-2-3 Draw)",
-      "book_author": "Freddie Levin",
-      "year_of_publication": "2002",
-      "publisher": "Peel Productions",
-      "image_url_s": "http://images.amazon.com/images/P/0939217449.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0939217449.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0939217449.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "671822284",
-      "book_title": "1 GENERATION AFTER",
-      "book_author": "Elie Weisel",
-      "year_of_publication": "1978",
-      "publisher": "Pocket",
-      "image_url_s": "http://images.amazon.com/images/P/0671822284.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0671822284.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0671822284.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "937708232",
-      "book_title": "1 Mans Homestead (Illus)",
-      "book_author": "Robert Redding",
-      "year_of_publication": "1990",
-      "publisher": "Great Northwest Publishing &amp; Distributing Com",
-      "image_url_s": "http://images.amazon.com/images/P/0937708232.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0937708232.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0937708232.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "892861002",
-      "book_title": "1 Pot Meals",
-      "book_author": "Margaret Gin",
-      "year_of_publication": "1976",
-      "publisher": "Simon &amp; Schuster",
-      "image_url_s": "http://images.amazon.com/images/P/0892861002.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0892861002.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0892861002.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "671003550",
-      "book_title": "1 RAGGED RIDGE ROAD",
-      "book_author": "Leonard Foglia",
-      "year_of_publication": "1998",
-      "publisher": "Pocket",
-      "image_url_s": "http://images.amazon.com/images/P/0671003550.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0671003550.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0671003550.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "919091628",
-      "book_title": "1 World",
-      "book_author": "Alyn E. &amp; Tuffs, Joann R. Mitchner",
-      "year_of_publication": "1989",
-      "publisher": "Nelson Canada",
-      "image_url_s": "http://images.amazon.com/images/P/0919091628.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0919091628.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0919091628.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "340102616",
-      "book_title": "1 x Jenseits, einfache Fahrt. Chili.",
-      "book_author": "Peter Kaczmarek",
-      "year_of_publication": "2001",
-      "publisher": "Arena",
-      "image_url_s": "http://images.amazon.com/images/P/340102616X.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/340102616X.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/340102616X.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "2246637910",
-      "book_title": "1+1+1 Une R�?©volution",
-      "book_author": "Alexandre Jardin",
-      "year_of_publication": "2002",
-      "publisher": "Grasset",
-      "image_url_s": "http://images.amazon.com/images/P/2246637910.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/2246637910.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/2246637910.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "68802579",
-      "book_title": "1, 2, 3",
-      "book_author": "Tana Hoban",
-      "year_of_publication": "1985",
-      "publisher": "Greenwillow Books",
-      "image_url_s": "http://images.amazon.com/images/P/068802579X.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/068802579X.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/068802579X.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "531301885",
-      "book_title": "1, 2, 3, Music!",
-      "book_author": "Sylvie Auzary-Luton",
-      "year_of_publication": "1999",
-      "publisher": "Orchard Books (NY)",
-      "image_url_s": "http://images.amazon.com/images/P/0531301885.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0531301885.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0531301885.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "940953242",
-      "book_title": "1, 2, 3-- The Toddler Years: A Practical Guide for Parents and Caregivers",
-      "book_author": "Irene Van Der Zande",
-      "year_of_publication": "1993",
-      "publisher": "Center",
-      "image_url_s": "http://images.amazon.com/images/P/0940953242.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0940953242.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0940953242.01.LZZZZZZZ.jpg"
-    },
-    {
-      "book_isbn": "671681362",
-      "book_title": "1, 2, 3: NURSERY BOARD BOOKS (Nursery Board Books)",
-      "book_author": "Jan Pienkowski",
-      "year_of_publication": "1989",
-      "publisher": "Little Simon",
-      "image_url_s": "http://images.amazon.com/images/P/0671681362.01.THUMBZZZ.jpg",
-      "image_url_m": "http://images.amazon.com/images/P/0671681362.01.MZZZZZZZ.jpg",
-      "image_url_l": "http://images.amazon.com/images/P/0671681362.01.LZZZZZZZ.jpg"
-    }
-  ]
-}
+[
+  {
+    "book_isbn": "590567330",
+    "book_title": " A Light in the Storm: The Civil War Diary of Amelia Martin, Fenwick Island, Delaware, 1861 (Dear America)",
+    "book_author": "Karen Hesse",
+    "year_of_publication": "1999",
+    "publisher": "Hyperion Books for Children",
+    "image_url_s": "http://images.amazon.com/images/P/0590567330.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0590567330.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0590567330.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "964147726",
+    "book_title": " Always Have Popsicles",
+    "book_author": "Rebecca Harvin",
+    "year_of_publication": "1994",
+    "publisher": "Rebecca L. Harvin",
+    "image_url_s": "http://images.amazon.com/images/P/0964147726.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0964147726.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0964147726.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "942320093",
+    "book_title": " Apple Magic (The Collector's series)",
+    "book_author": "Martina Boudreau",
+    "year_of_publication": "1984",
+    "publisher": "Amer Cooking Guild",
+    "image_url_s": "http://images.amazon.com/images/P/0942320093.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0942320093.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0942320093.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "310232546",
+    "book_title": " Ask Lily (Young Women of Faith: Lily Series, Book 5)",
+    "book_author": "Nancy N. Rue",
+    "year_of_publication": "2001",
+    "publisher": "Zonderkidz",
+    "image_url_s": "http://images.amazon.com/images/P/0310232546.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0310232546.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0310232546.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "962295701",
+    "book_title": " Beyond IBM: Leadership Marketing and Finance for the 1990s",
+    "book_author": "Lou Mobley",
+    "year_of_publication": "1989",
+    "publisher": "Teleonet, Incorporated",
+    "image_url_s": "http://images.amazon.com/images/P/0962295701.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0962295701.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0962295701.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "439188970",
+    "book_title": " Clifford Visita El Hospital (Clifford El Gran Perro Colorado)",
+    "book_author": "Norman Bridwell",
+    "year_of_publication": "2000",
+    "publisher": "Scholastic",
+    "image_url_s": "http://images.amazon.com/images/P/0439188970.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0439188970.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0439188970.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "399151788",
+    "book_title": " Dark Justice",
+    "book_author": "Jack Higgins",
+    "year_of_publication": "2004",
+    "publisher": "Putnam Publishing Group",
+    "image_url_s": "http://images.amazon.com/images/P/0399151788.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0399151788.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0399151788.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "786000015",
+    "book_title": " Deceived",
+    "book_author": "Carla Simpson",
+    "year_of_publication": "1994",
+    "publisher": "Pinnacle Books",
+    "image_url_s": "http://images.amazon.com/images/P/0786000015.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0786000015.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0786000015.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "6250746",
+    "book_title": " Earth Prayers From around the World: 365 Prayers, Poems, and Invocations for Honoring the Earth",
+    "book_author": "Elizabeth Roberts",
+    "year_of_publication": "1991",
+    "publisher": "HarperSanFrancisco",
+    "image_url_s": "http://images.amazon.com/images/P/006250746X.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/006250746X.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/006250746X.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "1566869250",
+    "book_title": " Final Fantasy Anthology: Official Strategy Guide (Brady Games)",
+    "book_author": "David Cassady",
+    "year_of_publication": "1999",
+    "publisher": "BradyGames",
+    "image_url_s": "http://images.amazon.com/images/P/1566869250.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/1566869250.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/1566869250.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "82177350",
+    "book_title": " Flight of Fancy: American Heiresses (Zebra Ballad Romance)",
+    "book_author": "Tracy Cozzens",
+    "year_of_publication": "2002",
+    "publisher": "Kensington Publishing Corporation",
+    "image_url_s": "http://images.amazon.com/images/P/082177350X.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/082177350X.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/082177350X.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "345407709",
+    "book_title": " Garfield Bigger and Better (Garfield (Numbered Paperback))",
+    "book_author": "Jim Davis",
+    "year_of_publication": "1996",
+    "publisher": "Ballantine Books",
+    "image_url_s": "http://images.amazon.com/images/P/0345407709.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0345407709.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0345407709.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "849951577",
+    "book_title": " God's Little Promise Book",
+    "book_author": "Word Pub",
+    "year_of_publication": "1995",
+    "publisher": "J Countryman Books",
+    "image_url_s": "http://images.amazon.com/images/P/0849951577.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0849951577.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0849951577.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "679732578",
+    "book_title": " Good Wives: Image and Reality in the Lives of Women in Northern New England, 1650-1750",
+    "book_author": "Laurel Thatcher Ulrich",
+    "year_of_publication": "1991",
+    "publisher": "Vintage Books USA",
+    "image_url_s": "http://images.amazon.com/images/P/0679732578.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0679732578.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0679732578.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "590509950",
+    "book_title": " Goosebumps Monster Edition 1: Welcome to Dead House, Stay Out of the Basement, and Say Cheese and Die!",
+    "book_author": "R. L. Stine",
+    "year_of_publication": "1995",
+    "publisher": "Scholastic Paperbacks (T)",
+    "image_url_s": "http://images.amazon.com/images/P/0590509950.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0590509950.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0590509950.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "889652015",
+    "book_title": " Harry Potter and the Bible: The Menace Behind the Magick (And the Bible Series)",
+    "book_author": "Richard Abanes",
+    "year_of_publication": "2001",
+    "publisher": "Horizon Books Publishers",
+    "image_url_s": "http://images.amazon.com/images/P/0889652015.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0889652015.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0889652015.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "821760580",
+    "book_title": " Highland Desire (Zebra Splendor Historical Romances)",
+    "book_author": "Joyce Carlow",
+    "year_of_publication": "1998",
+    "publisher": "Zebra Books",
+    "image_url_s": "http://images.amazon.com/images/P/0821760580.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0821760580.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0821760580.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "939431181",
+    "book_title": " Hiking the California Coastal Trail: Oregon to Monterey",
+    "book_author": "Bob Lorentzen",
+    "year_of_publication": "1997",
+    "publisher": "Bored Feet Publications",
+    "image_url_s": "http://images.amazon.com/images/P/0939431181.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0939431181.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0939431181.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "590853112",
+    "book_title": " It Takes Two",
+    "book_author": "Nancy Krlik",
+    "year_of_publication": "1995",
+    "publisher": "Scholastic",
+    "image_url_s": "http://images.amazon.com/images/P/0590853112.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0590853112.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0590853112.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "590449273",
+    "book_title": " LA Gallinita Roja/the Little Red Hen",
+    "book_author": "Lucinda McQueen",
+    "year_of_publication": "1995",
+    "publisher": "Scholastic",
+    "image_url_s": "http://images.amazon.com/images/P/0590449273.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0590449273.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0590449273.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "59093483",
+    "book_title": " Little Comic Shop of Horrors (Give Yourself Goosebumps, Book 17)",
+    "book_author": "R. L. Stine",
+    "year_of_publication": "1997",
+    "publisher": "Apple (Scholastic)",
+    "image_url_s": "http://images.amazon.com/images/P/059093483X.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/059093483X.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/059093483X.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "735618372",
+    "book_title": " Microsoft Application Architecture For Microsoft .net: Designing Application (Pro-Other)",
+    "book_author": "Microsoft Corporation Staff",
+    "year_of_publication": "2004",
+    "publisher": "Microsoft Press",
+    "image_url_s": "http://images.amazon.com/images/P/0735618372.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0735618372.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0735618372.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "451205480",
+    "book_title": " Murder of a Sleeping Beauty (Scumble River Mysteries (Paperback))",
+    "book_author": "Denise Swanson",
+    "year_of_publication": "2002",
+    "publisher": "Signet Book",
+    "image_url_s": "http://images.amazon.com/images/P/0451205480.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0451205480.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0451205480.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "1567230148",
+    "book_title": " Mystery Mile",
+    "book_author": "Margery Allingham",
+    "year_of_publication": "1994",
+    "publisher": "Yestermorrow Inc",
+    "image_url_s": "http://images.amazon.com/images/P/1567230148.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/1567230148.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/1567230148.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "888020910",
+    "book_title": " Nonbook Materials: The Organization of Integrated Collections",
+    "book_author": "Jean Riddle Weihs",
+    "year_of_publication": "1973",
+    "publisher": "Canadian Library Association",
+    "image_url_s": "http://images.amazon.com/images/P/0888020910.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0888020910.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0888020910.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "439106591",
+    "book_title": " Pokemon: The Official Collector's Sticker Book",
+    "book_author": "Maria S. Barbo",
+    "year_of_publication": "1999",
+    "publisher": "Scholastic",
+    "image_url_s": "http://images.amazon.com/images/P/0439106591.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0439106591.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0439106591.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "671019155",
+    "book_title": " Q-Space (Star Trek The Next Generation, Book 47)",
+    "book_author": "Greg Cox",
+    "year_of_publication": "1998",
+    "publisher": "Star Trek",
+    "image_url_s": "http://images.amazon.com/images/P/0671019155.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0671019155.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0671019155.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "67101921",
+    "book_title": " Q-Zone (Star Trek The Next Generation, Book 48)",
+    "book_author": "Greg Cox",
+    "year_of_publication": "1998",
+    "publisher": "Star Trek",
+    "image_url_s": "http://images.amazon.com/images/P/067101921X.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/067101921X.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/067101921X.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "810110318",
+    "book_title": " Stories of an Imaginary Childhood",
+    "book_author": "Melvin Jules Bukiet",
+    "year_of_publication": "1991",
+    "publisher": "Northwestern Univ Pr",
+    "image_url_s": "http://images.amazon.com/images/P/0810110318.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0810110318.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0810110318.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "1563892650",
+    "book_title": " Summonings: Books of Magic, Vol. 2",
+    "book_author": "John Ney Rieber",
+    "year_of_publication": "1996",
+    "publisher": "DC Comics",
+    "image_url_s": "http://images.amazon.com/images/P/1563892650.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/1563892650.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/1563892650.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "1561568805",
+    "book_title": " Tales of Terror and Suspense",
+    "book_author": "Allen Edgar",
+    "year_of_publication": "1998",
+    "publisher": "Kidsbooks",
+    "image_url_s": "http://images.amazon.com/images/P/1561568805.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/1561568805.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/1561568805.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "345279263",
+    "book_title": " the Devil Will Drag You Under",
+    "book_author": "Jack L Chalker",
+    "year_of_publication": "1979",
+    "publisher": "Ballantine Books",
+    "image_url_s": "http://images.amazon.com/images/P/0345279263.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0345279263.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0345279263.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "807207543",
+    "book_title": " The Secret of the Old Clock (Nancy Drew, Book 1)",
+    "book_author": "Carolyn Keene",
+    "year_of_publication": "2002",
+    "publisher": "Imagination Studio",
+    "image_url_s": "http://images.amazon.com/images/P/0807207543.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0807207543.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0807207543.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "1576737772",
+    "book_title": " The Tender Commandments : Reflections on the Father's Love",
+    "book_author": "Ron Mehl",
+    "year_of_publication": "2001",
+    "publisher": "Multnomah",
+    "image_url_s": "http://images.amazon.com/images/P/1576737772.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/1576737772.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/1576737772.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "44048989",
+    "book_title": " The Town Cats and Other Tales",
+    "book_author": "Lloyd Alexander",
+    "year_of_publication": "1990",
+    "publisher": "Yearling Books",
+    "image_url_s": "http://images.amazon.com/images/P/044048989X.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/044048989X.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/044048989X.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "440987261",
+    "book_title": " This Place Has No Atmosphere (Laurel-Leaf Books)",
+    "book_author": "Paula Danziger",
+    "year_of_publication": "1987",
+    "publisher": "Random House Childrens Pub",
+    "image_url_s": "http://images.amazon.com/images/P/0440987261.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0440987261.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0440987261.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "670856193",
+    "book_title": " Tough Loser",
+    "book_author": "Barthe Declements",
+    "year_of_publication": "1994",
+    "publisher": "Viking Books",
+    "image_url_s": "http://images.amazon.com/images/P/0670856193.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0670856193.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0670856193.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "646060422",
+    "book_title": " Travel Companion Chile and Easter Island (Travel Companion)",
+    "book_author": "Gerry Leitner",
+    "year_of_publication": "1996",
+    "publisher": "Hunter Publishing",
+    "image_url_s": "http://images.amazon.com/images/P/0646060422.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0646060422.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0646060422.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "942025857",
+    "book_title": " Twenty Thousand Leagues Under the Sea (Illustrated Classics)",
+    "book_author": "Jules Verne",
+    "year_of_publication": "1990",
+    "publisher": "Kidsbooks.Com",
+    "image_url_s": "http://images.amazon.com/images/P/0942025857.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0942025857.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0942025857.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "752517783",
+    "book_title": " Weird News Stories",
+    "book_author": "Colin Wilson",
+    "year_of_publication": "1996",
+    "publisher": "Siena",
+    "image_url_s": "http://images.amazon.com/images/P/0752517783.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0752517783.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0752517783.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "439389364",
+    "book_title": " Zap!: Science Fair Surprise! (Abracadabra!, Book 5)",
+    "book_author": "Peter Lerangis",
+    "year_of_publication": "2003",
+    "publisher": "Scholastic",
+    "image_url_s": "http://images.amazon.com/images/P/0439389364.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0439389364.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0439389364.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "1565920317",
+    "book_title": "!%@ (A Nutshell handbook)",
+    "book_author": "Donnalyn Frey",
+    "year_of_publication": "1993",
+    "publisher": "O'Reilly",
+    "image_url_s": "http://images.amazon.com/images/P/1565920317.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/1565920317.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/1565920317.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "1565920465",
+    "book_title": "!%@ (A Nutshell handbook)",
+    "book_author": "Donnalyn Frey",
+    "year_of_publication": "1994",
+    "publisher": "O'Reilly",
+    "image_url_s": "http://images.amazon.com/images/P/1565920465.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/1565920465.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/1565920465.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "133989429",
+    "book_title": "!Arriba! Comunicacion y cultura",
+    "book_author": "Eduardo Zayas-Bazan",
+    "year_of_publication": "1996",
+    "publisher": "Prentice Hall",
+    "image_url_s": "http://images.amazon.com/images/P/0133989429.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0133989429.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0133989429.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "13327974",
+    "book_title": "!Trato hecho!: Spanish for Real Life, Combined Edition",
+    "book_author": "John T. McMinn",
+    "year_of_publication": "1995",
+    "publisher": "Prentice Hall",
+    "image_url_s": "http://images.amazon.com/images/P/013327974X.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/013327974X.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/013327974X.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "452279186",
+    "book_title": "!Yo!",
+    "book_author": "Julia Alvarez",
+    "year_of_publication": "1997",
+    "publisher": "Plume Books",
+    "image_url_s": "http://images.amazon.com/images/P/0452279186.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0452279186.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0452279186.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "836218205",
+    "book_title": "$14 In The Bank (Cathy Collection)",
+    "book_author": "Cathy Guisewite",
+    "year_of_publication": "1990",
+    "publisher": "Andrews McMeel Publishing",
+    "image_url_s": "http://images.amazon.com/images/P/0836218205.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0836218205.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0836218205.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "1592000673",
+    "book_title": "$30 Film School",
+    "book_author": "Michael W. Dean",
+    "year_of_publication": "2003",
+    "publisher": "Muska &amp; Lipman Publishing",
+    "image_url_s": "http://images.amazon.com/images/P/1592000673.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/1592000673.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/1592000673.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "1588204030",
+    "book_title": "$oft Money: The True Power in Our Nation's Capital",
+    "book_author": "E. L. Burton",
+    "year_of_publication": "2000",
+    "publisher": "1stBooks Library",
+    "image_url_s": "http://images.amazon.com/images/P/1588204030.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/1588204030.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/1588204030.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "812506448",
+    "book_title": "$Weet Deal$",
+    "book_author": "Brian Lysaght",
+    "year_of_publication": "1986",
+    "publisher": "Tor Books",
+    "image_url_s": "http://images.amazon.com/images/P/0812506448.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0812506448.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0812506448.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "563208422",
+    "book_title": "' Allo 'Allo: the War Diaries of Rene Artois",
+    "book_author": "John Haselden",
+    "year_of_publication": "1989",
+    "publisher": "BBC Consumer Publishing",
+    "image_url_s": "http://images.amazon.com/images/P/0563208422.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0563208422.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0563208422.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "708989179",
+    "book_title": "' L' Is for Lawless",
+    "book_author": "Sue Grafton",
+    "year_of_publication": "1996",
+    "publisher": "F A Thorpe (Publishers)",
+    "image_url_s": "http://images.amazon.com/images/P/0708989179.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0708989179.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0708989179.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "342105634",
+    "book_title": "' Mein verwundetes Herz'. Das Leben der Lilli Jahn 1900 - 1944.",
+    "book_author": "Martin Doerry",
+    "year_of_publication": "2002",
+    "publisher": "Dva",
+    "image_url_s": "http://images.amazon.com/images/P/342105634X.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/342105634X.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/342105634X.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "3462035029",
+    "book_title": "' Sehr geehrtes Arschloch.' Briefe an den Regierungspr�?¤sidenten.",
+    "book_author": "Franz-Josef Antwerpes",
+    "year_of_publication": "2000",
+    "publisher": "Kiepenheuer &amp; Witsch",
+    "image_url_s": "http://images.amazon.com/images/P/3462035029.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/3462035029.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/3462035029.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "3492213472",
+    "book_title": "' Sie belieben wohl zu scherzen, Mr. Feynman.'. Abenteuer eines neugierigen Physikers.",
+    "book_author": "Richard P. Feynman",
+    "year_of_publication": "1996",
+    "publisher": "Piper",
+    "image_url_s": "http://images.amazon.com/images/P/3492213472.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/3492213472.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/3492213472.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "3257229356",
+    "book_title": "' Small g'. Eine Sommeridylle.",
+    "book_author": "Patricia Highsmith",
+    "year_of_publication": "1996",
+    "publisher": "Diogenes Verlag",
+    "image_url_s": "http://images.amazon.com/images/P/3257229356.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/3257229356.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/3257229356.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "1857820045",
+    "book_title": "' Til the Fat Lady Sings",
+    "book_author": "Stuart White",
+    "year_of_publication": "1992",
+    "publisher": "Blake Publishing Ltd",
+    "image_url_s": "http://images.amazon.com/images/P/1857820045.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/1857820045.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/1857820045.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "754004988",
+    "book_title": "' Tis",
+    "book_author": "Frank McCourt",
+    "year_of_publication": "0",
+    "publisher": "Chivers Press Ltd",
+    "image_url_s": "http://images.amazon.com/images/P/0754004988.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0754004988.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0754004988.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "3492236103",
+    "book_title": "' Warum sagen Sie nicht, was Sie meinen?'",
+    "book_author": "Deborah Tannen",
+    "year_of_publication": "2002",
+    "publisher": "Piper",
+    "image_url_s": "http://images.amazon.com/images/P/3492236103.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/3492236103.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/3492236103.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "61057819",
+    "book_title": "'48",
+    "book_author": "James Herbert",
+    "year_of_publication": "1998",
+    "publisher": "Eos",
+    "image_url_s": "http://images.amazon.com/images/P/0061057819.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0061057819.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0061057819.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "792277295",
+    "book_title": "'A Hell of a Place to Lose a Cow': An American Hitchhiking Odyssey",
+    "book_author": "Tim Brookes",
+    "year_of_publication": "2001",
+    "publisher": "National Geographic",
+    "image_url_s": "http://images.amazon.com/images/P/0792277295.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0792277295.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0792277295.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "792276833",
+    "book_title": "'A Hell of a Place to Lose a Cow': An American Hitchhiking Odyssey",
+    "book_author": "Tim Brookes",
+    "year_of_publication": "2000",
+    "publisher": "National Geographic",
+    "image_url_s": "http://images.amazon.com/images/P/0792276833.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0792276833.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0792276833.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "941925196",
+    "book_title": "'California Historical Landmarks'",
+    "book_author": "California State Parks Office of Historic Preservation",
+    "year_of_publication": "0",
+    "publisher": "California Dept Parks &amp;",
+    "image_url_s": "http://images.amazon.com/images/P/0941925196.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0941925196.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0941925196.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "3426616025",
+    "book_title": "'Das geht alles von Ihrer Zeit ab.'",
+    "book_author": "Piet Klocke",
+    "year_of_publication": "2000",
+    "publisher": "Droemer Knaur",
+    "image_url_s": "http://images.amazon.com/images/P/3426616025.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/3426616025.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/3426616025.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "3423305215",
+    "book_title": "'Eine gute Frau hat keinen Kopf'. Europ�?¤ische Sprichw�?¶rter �?¼ber Frauen.",
+    "book_author": "Mineke Schipper",
+    "year_of_publication": "1996",
+    "publisher": "Dtv",
+    "image_url_s": "http://images.amazon.com/images/P/3423305215.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/3423305215.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/3423305215.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "805054464",
+    "book_title": "'G' Is for Grafton : The World of Kinsey Millhone",
+    "book_author": "Natalie Hevener Kaufman",
+    "year_of_publication": "1997",
+    "publisher": "Henry Holt &amp; Company",
+    "image_url_s": "http://images.amazon.com/images/P/0805054464.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0805054464.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0805054464.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "394714628",
+    "book_title": "'Gentlemen Prefer Blondes' 'but Gentlemen Marry Brunettes'",
+    "book_author": "Anita Loos",
+    "year_of_publication": "1983",
+    "publisher": "Vintage Books",
+    "image_url_s": "http://images.amazon.com/images/P/0394714628.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0394714628.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0394714628.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "1889388009",
+    "book_title": "'Great Speeches for Criticism and Analysis'",
+    "book_author": "Lloyd Rohler",
+    "year_of_publication": "1997",
+    "publisher": "Alistair Press (IN)",
+    "image_url_s": "http://images.amazon.com/images/P/1889388009.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/1889388009.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/1889388009.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "854098089",
+    "book_title": "'Isms: a dictionary of words ending in -ism, -ology, and -phobia,: With some similar terms, arranged in subject order",
+    "book_author": "Eng Sheffield",
+    "year_of_publication": "1972",
+    "publisher": "Corporation of Sheffield; Wakefield, EP Publishing Ltd",
+    "image_url_s": "http://images.amazon.com/images/P/0854098089.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0854098089.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0854098089.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "743246063",
+    "book_title": "'Mater Biscuit : A Homegrown Novel",
+    "book_author": "Julie Cannon",
+    "year_of_publication": "2004",
+    "publisher": "Touchstone",
+    "image_url_s": "http://images.amazon.com/images/P/0743246063.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0743246063.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0743246063.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "3203850273",
+    "book_title": "'Mit Verlaub, Sie sind ein Arschloch.' Joschkas sch�?¤rfste Spr�?¼che.",
+    "book_author": "Matthias Ohnsmann",
+    "year_of_publication": "2001",
+    "publisher": "Europa, Hamburg",
+    "image_url_s": "http://images.amazon.com/images/P/3203850273.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/3203850273.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/3203850273.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "9050180590",
+    "book_title": "'n Hollandse stadsguerrilla: Terugblik op de Rode Jeugd",
+    "book_author": "Frans Dekkers",
+    "year_of_publication": "1988",
+    "publisher": "Balans",
+    "image_url_s": "http://images.amazon.com/images/P/9050180590.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/9050180590.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/9050180590.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "158663061",
+    "book_title": "'N Sync",
+    "book_author": "Lexi Martin",
+    "year_of_publication": "2000",
+    "publisher": "MetroBooks (NY)",
+    "image_url_s": "http://images.amazon.com/images/P/158663061X.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/158663061X.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/158663061X.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "671032771",
+    "book_title": "'N Sync With JC",
+    "book_author": "Nancy Krulik",
+    "year_of_publication": "1999",
+    "publisher": "Simon Spotlight Entertainment",
+    "image_url_s": "http://images.amazon.com/images/P/0671032771.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0671032771.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0671032771.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "671032763",
+    "book_title": "'N Sync With Justin",
+    "book_author": "Matt Netter",
+    "year_of_publication": "1999",
+    "publisher": "Simon Spotlight Entertainment",
+    "image_url_s": "http://images.amazon.com/images/P/0671032763.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0671032763.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0671032763.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "671034707",
+    "book_title": "'N SYNC: TEARIN' UP THE CHARTS",
+    "book_author": "Matt Netter",
+    "year_of_publication": "1998",
+    "publisher": "Simon Spotlight Entertainment",
+    "image_url_s": "http://images.amazon.com/images/P/0671034707.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0671034707.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0671034707.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "312971982",
+    "book_title": "'N Sync: Tearing Up Our Hearts",
+    "book_author": "Anna Louise Golden",
+    "year_of_publication": "1999",
+    "publisher": "St. Martin's Press",
+    "image_url_s": "http://images.amazon.com/images/P/0312971982.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0312971982.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0312971982.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "374521387",
+    "book_title": "'night, Mother : A Play (Mermaid Dramabook)",
+    "book_author": "Marsha Norman",
+    "year_of_publication": "1983",
+    "publisher": "Hill and Wang",
+    "image_url_s": "http://images.amazon.com/images/P/0374521387.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0374521387.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0374521387.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "451138236",
+    "book_title": "'Now What Are You Up To, Herman?'",
+    "book_author": "Jim Unger",
+    "year_of_publication": "1985",
+    "publisher": "New American Library",
+    "image_url_s": "http://images.amazon.com/images/P/0451138236.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0451138236.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0451138236.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "738861618",
+    "book_title": "'O Au No Keia: Voices from Hawai'I's Mahu and Transgender Communities",
+    "book_author": "Andrew Matzner",
+    "year_of_publication": "2001",
+    "publisher": "Xlibris Corporation",
+    "image_url_s": "http://images.amazon.com/images/P/0738861618.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0738861618.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0738861618.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "942237196",
+    "book_title": "'Romance of Paula Vaughn'",
+    "book_author": "Paula Vaughan",
+    "year_of_publication": "1993",
+    "publisher": "Leisure Arts Inc.",
+    "image_url_s": "http://images.amazon.com/images/P/0942237196.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0942237196.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0942237196.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "842371907",
+    "book_title": "'Round the Corner (Sister Circle)",
+    "book_author": "Vonette Bright",
+    "year_of_publication": "2003",
+    "publisher": "Tyndale House Publishers",
+    "image_url_s": "http://images.amazon.com/images/P/0842371907.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0842371907.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0842371907.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "451168089",
+    "book_title": "'Salem's Lot",
+    "book_author": "Stephen King",
+    "year_of_publication": "1990",
+    "publisher": "Signet Book",
+    "image_url_s": "http://images.amazon.com/images/P/0451168089.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0451168089.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0451168089.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "385007515",
+    "book_title": "'Salem's Lot",
+    "book_author": "Stephen King",
+    "year_of_publication": "1993",
+    "publisher": "Doubleday Books",
+    "image_url_s": "http://images.amazon.com/images/P/0385007515.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0385007515.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0385007515.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "67103975",
+    "book_title": "'Salem's Lot",
+    "book_author": "Stephen King",
+    "year_of_publication": "2000",
+    "publisher": "Pocket",
+    "image_url_s": "http://images.amazon.com/images/P/067103975X.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/067103975X.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/067103975X.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "43915555",
+    "book_title": "'Scope Out Your Life: What Your Sign Says About You (All about You (Scholastic))",
+    "book_author": "Julia Marsden",
+    "year_of_publication": "2000",
+    "publisher": "Scholastic",
+    "image_url_s": "http://images.amazon.com/images/P/043915555X.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/043915555X.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/043915555X.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "679742263",
+    "book_title": "'The Moon by Whale Light: And Other Adventures Among Bats, Penguins, Crocodilians, and Whales",
+    "book_author": "Diane Ackerman",
+    "year_of_publication": "1992",
+    "publisher": "Vintage Books USA",
+    "image_url_s": "http://images.amazon.com/images/P/0679742263.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0679742263.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0679742263.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "446531758",
+    "book_title": "'Til Death Do Us Part",
+    "book_author": "Kate White",
+    "year_of_publication": "2004",
+    "publisher": "Warner Books",
+    "image_url_s": "http://images.amazon.com/images/P/0446531758.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0446531758.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0446531758.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "446601233",
+    "book_title": "'til the Real Thing Comes Along",
+    "book_author": "Iris Ranier Dart",
+    "year_of_publication": "1995",
+    "publisher": "Warner Books",
+    "image_url_s": "http://images.amazon.com/images/P/0446601233.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0446601233.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0446601233.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "373821875",
+    "book_title": "'Til There Was You",
+    "book_author": "Kathleen Eagle",
+    "year_of_publication": "1999",
+    "publisher": "Harlequin Books",
+    "image_url_s": "http://images.amazon.com/images/P/0373821875.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0373821875.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0373821875.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "373095767",
+    "book_title": "'Til There Was You (Special Edition, No 576)",
+    "book_author": "Kathleen Eagle",
+    "year_of_publication": "1989",
+    "publisher": "Silhouette",
+    "image_url_s": "http://images.amazon.com/images/P/0373095767.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0373095767.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0373095767.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "373270607",
+    "book_title": "'Til We Meet Again (The Circle) (Silhouette Shadows, No 60)",
+    "book_author": "Kimberly Raye",
+    "year_of_publication": "1995",
+    "publisher": "Silhouette",
+    "image_url_s": "http://images.amazon.com/images/P/0373270607.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0373270607.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0373270607.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "743246934",
+    "book_title": "'Tis Herself : A Memoir",
+    "book_author": "Maureen O'Hara",
+    "year_of_publication": "2004",
+    "publisher": "Simon &amp; Schuster",
+    "image_url_s": "http://images.amazon.com/images/P/0743246934.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0743246934.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0743246934.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "821757814",
+    "book_title": "'Tis The Season (Christmas Anthology): Under the Mistletoe/A Baby for Christmas/Christmas Angel/Home for Christmas",
+    "book_author": "Kat Martin",
+    "year_of_publication": "1997",
+    "publisher": "Kensington Pub Corp (Mm)",
+    "image_url_s": "http://images.amazon.com/images/P/0821757814.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0821757814.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0821757814.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "373291833",
+    "book_title": "'Tis The Season (Harlequin Historical Series, No. 583)",
+    "book_author": "Susan Spencer Paul",
+    "year_of_publication": "2001",
+    "publisher": "Harlequin",
+    "image_url_s": "http://images.amazon.com/images/P/0373291833.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0373291833.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0373291833.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "373253788",
+    "book_title": "'Tis The Season (Harlequin Temptation, No 278)",
+    "book_author": "Vicki Lewis Thompson",
+    "year_of_publication": "1989",
+    "publisher": "Harlequin",
+    "image_url_s": "http://images.amazon.com/images/P/0373253788.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0373253788.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0373253788.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "373709528",
+    "book_title": "'Tis The Season (The Daddy School) (Superromance, 952)",
+    "book_author": "Judith Arnold",
+    "year_of_publication": "2000",
+    "publisher": "Harlequin",
+    "image_url_s": "http://images.amazon.com/images/P/0373709528.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0373709528.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0373709528.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "225218",
+    "book_title": "'Tis the Season to Be Crabby (Festive Peanuts)",
+    "book_author": "Charles M. Schulz",
+    "year_of_publication": "1996",
+    "publisher": "HarperEntertainment",
+    "image_url_s": "http://images.amazon.com/images/P/000225218X.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/000225218X.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/000225218X.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "684864495",
+    "book_title": "'Tis: A Memoir",
+    "book_author": "Frank McCourt",
+    "year_of_publication": "1999",
+    "publisher": "Scribner",
+    "image_url_s": "http://images.amazon.com/images/P/0684864495.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0684864495.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0684864495.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "373056842",
+    "book_title": "'Twas The Night (Harlequin Desire No 684)",
+    "book_author": "Ellen Small",
+    "year_of_publication": "1991",
+    "publisher": "Silhouette",
+    "image_url_s": "http://images.amazon.com/images/P/0373056842.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0373056842.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0373056842.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "395643740",
+    "book_title": "'Twas the Night Before Christmas",
+    "book_author": "Jessie Wilcox Smith",
+    "year_of_publication": "1992",
+    "publisher": "Houghton Mifflin",
+    "image_url_s": "http://images.amazon.com/images/P/0395643740.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0395643740.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0395643740.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "831771593",
+    "book_title": "'Webster's New Business Writer's Guide (Webster's Dictionary Series)",
+    "book_author": "Merriam-Webster",
+    "year_of_publication": "1998",
+    "publisher": "Smithmark Publishers",
+    "image_url_s": "http://images.amazon.com/images/P/0831771593.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0831771593.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0831771593.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "440428475",
+    "book_title": "(George)",
+    "book_author": "E.L. Konigsburg",
+    "year_of_publication": "1985",
+    "publisher": "Bantam Books (Mm)",
+    "image_url_s": "http://images.amazon.com/images/P/0440428475.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0440428475.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0440428475.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "373512287",
+    "book_title": "(Quinn's Way (Harlequin American Romance, No. 558)",
+    "book_author": "Rebecca Flanders",
+    "year_of_publication": "2003",
+    "publisher": "Silhouette Books",
+    "image_url_s": "http://images.amazon.com/images/P/0373512287.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0373512287.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0373512287.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "552547344",
+    "book_title": "(Un)arranged Marriage",
+    "book_author": "Bali Rai",
+    "year_of_publication": "2001",
+    "publisher": "Corgi Childrens",
+    "image_url_s": "http://images.amazon.com/images/P/0552547344.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0552547344.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0552547344.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "1568580010",
+    "book_title": "* * *: A Novel",
+    "book_author": "Michael Brodsky",
+    "year_of_publication": "1994",
+    "publisher": "Pub Group West",
+    "image_url_s": "http://images.amazon.com/images/P/1568580010.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/1568580010.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/1568580010.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "3795726522",
+    "book_title": "--fast ein Meisterwerk: Die Welt der Musik in Anekdoten : eine heitere Musik-Soziologie",
+    "book_author": "Stephan Pflicht",
+    "year_of_publication": "1987",
+    "publisher": "Schott",
+    "image_url_s": "http://images.amazon.com/images/P/3795726522.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/3795726522.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/3795726522.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "8700224367",
+    "book_title": "--men i hvert fald i live",
+    "book_author": "Cecil B²dker",
+    "year_of_publication": "1995",
+    "publisher": "Gyldendal",
+    "image_url_s": "http://images.amazon.com/images/P/8700224367.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/8700224367.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/8700224367.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "8485704061",
+    "book_title": "--Olivetti, Moulinex, Chaffoteaux et Maury (Quaderns crema. Narrativa)",
+    "book_author": "Quim Monzó",
+    "year_of_publication": "1980",
+    "publisher": "Edicions dels Quaderns Crema",
+    "image_url_s": "http://images.amazon.com/images/P/8485704061.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/8485704061.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/8485704061.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "3894721057",
+    "book_title": "--Und morgen die ganze Welt?: Rechstextreme Publizistik in Westeuropa",
+    "book_author": "Rainer Fromm",
+    "year_of_publication": "1994",
+    "publisher": "Schüren",
+    "image_url_s": "http://images.amazon.com/images/P/3894721057.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/3894721057.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/3894721057.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "8408012312",
+    "book_title": "--y los 40 ladrones (Colección Fábula)",
+    "book_author": "Fernando Vizcaíno Casas",
+    "year_of_publication": "1994",
+    "publisher": "Planeta",
+    "image_url_s": "http://images.amazon.com/images/P/8408012312.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/8408012312.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/8408012312.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "743415183",
+    "book_title": "... And for Starters",
+    "book_author": "Victoria Routledge",
+    "year_of_publication": "2001",
+    "publisher": "Simon &amp; Schuster (Trade Division)",
+    "image_url_s": "http://images.amazon.com/images/P/0743415183.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0743415183.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0743415183.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "3499108682",
+    "book_title": "... steigen aus... maschine brennt... 10 Fliegergeschichten.",
+    "book_author": "Roald Dahl",
+    "year_of_publication": "1966",
+    "publisher": "Rowohlt Tb.",
+    "image_url_s": "http://images.amazon.com/images/P/3499108682.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/3499108682.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/3499108682.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "2890452107",
+    "book_title": "... vol ... à bord ... du.Concordia (Her Les Aventures de Michel Labre)",
+    "book_author": "Madeleine Gaudreault-Labrecque",
+    "year_of_publication": "1979",
+    "publisher": "�?ditions Hurtubise HMH",
+    "image_url_s": "http://images.amazon.com/images/P/2890452107.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/2890452107.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/2890452107.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "3729606409",
+    "book_title": "... wenn du es nicht lassen kannst.",
+    "book_author": "Gisela Rudolf",
+    "year_of_publication": "2002",
+    "publisher": "Zytglogge-Verlag",
+    "image_url_s": "http://images.amazon.com/images/P/3729606409.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/3729606409.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/3729606409.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "6754376",
+    "book_title": "...and Conflict (Sugar Secrets S.)",
+    "book_author": "Mel Sparke",
+    "year_of_publication": "2000",
+    "publisher": "Collins",
+    "image_url_s": "http://images.amazon.com/images/P/0006754376.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0006754376.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0006754376.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "425174409",
+    "book_title": "...And Ladies of the Club",
+    "book_author": "Helen Hooven Santmyer",
+    "year_of_publication": "2000",
+    "publisher": "Berkley Publishing Group",
+    "image_url_s": "http://images.amazon.com/images/P/0425174409.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0425174409.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0425174409.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "690091184",
+    "book_title": "...And Now Miguel",
+    "book_author": "Joseph Krumgold",
+    "year_of_publication": "1953",
+    "publisher": "HarperCollins",
+    "image_url_s": "http://images.amazon.com/images/P/0690091184.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0690091184.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0690091184.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "6440143",
+    "book_title": "...And Now Miguel",
+    "book_author": "Joseph Krumgold",
+    "year_of_publication": "1984",
+    "publisher": "HarperTrophy",
+    "image_url_s": "http://images.amazon.com/images/P/006440143X.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/006440143X.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/006440143X.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "1566843464",
+    "book_title": "...And The FAT Came Back",
+    "book_author": "Bonnie Chatelain",
+    "year_of_publication": "1999",
+    "publisher": "D. J. Inkers",
+    "image_url_s": "http://images.amazon.com/images/P/1566843464.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/1566843464.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/1566843464.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "684857340",
+    "book_title": "...AND THE HORSE HE RODE IN ON : THE PEOPLE V. KENNETH STARR",
+    "book_author": "James Carville",
+    "year_of_publication": "1998",
+    "publisher": "Simon &amp; Schuster",
+    "image_url_s": "http://images.amazon.com/images/P/0684857340.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0684857340.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0684857340.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "671024981",
+    "book_title": "...Sacrifice of Angels:  The Dominion War Book 4 (Star Trek Deep Space Nine)",
+    "book_author": "Diane Carey",
+    "year_of_publication": "1998",
+    "publisher": "Star Trek",
+    "image_url_s": "http://images.amazon.com/images/P/0671024981.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0671024981.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0671024981.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "670324329",
+    "book_title": ".44",
+    "book_author": "Jimmy Breslin",
+    "year_of_publication": "1978",
+    "publisher": "Viking Press",
+    "image_url_s": "http://images.amazon.com/images/P/0670324329.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0670324329.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0670324329.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "843943572",
+    "book_title": ".44 (Leisure Western)",
+    "book_author": "H. A. Derosso",
+    "year_of_publication": "1998",
+    "publisher": "Leisure Books",
+    "image_url_s": "http://images.amazon.com/images/P/0843943572.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0843943572.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0843943572.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "1591824141",
+    "book_title": ".Hack: //Legend of the Twilight, Vol. 1",
+    "book_author": "Tatsuya Hamazaki",
+    "year_of_publication": "2003",
+    "publisher": "Tokyopop",
+    "image_url_s": "http://images.amazon.com/images/P/1591824141.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/1591824141.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/1591824141.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "159182415",
+    "book_title": ".Hack: //Legend of the Twilight, Vol. 2",
+    "book_author": "Tatsuya Hamazaki",
+    "year_of_publication": "2003",
+    "publisher": "Tokyopop",
+    "image_url_s": "http://images.amazon.com/images/P/159182415X.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/159182415X.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/159182415X.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "596005059",
+    "book_title": ".NET Framework Essentials, 3rd Edition",
+    "book_author": "Thuan L. Thai",
+    "year_of_publication": "2003",
+    "publisher": "O'Reilly",
+    "image_url_s": "http://images.amazon.com/images/P/0596005059.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0596005059.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0596005059.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "2266022253",
+    "book_title": "006781: Bk.1 Gags De Boule Et Bil",
+    "book_author": "ROBA",
+    "year_of_publication": "0",
+    "publisher": "Pocket",
+    "image_url_s": "http://images.amazon.com/images/P/2266022253.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/2266022253.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/2266022253.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "8401461189",
+    "book_title": "007 El Mundo Nunca Es Suficiente",
+    "book_author": "Raymond Benson",
+    "year_of_publication": "1999",
+    "publisher": "Plaza &amp; Janes Editores, S.A.",
+    "image_url_s": "http://images.amazon.com/images/P/8401461189.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/8401461189.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/8401461189.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "312870582",
+    "book_title": "01-01-00: A Novel of the Millennium",
+    "book_author": "R. J. Pineiro",
+    "year_of_publication": "1999",
+    "publisher": "Forge",
+    "image_url_s": "http://images.amazon.com/images/P/0312870582.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0312870582.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0312870582.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "812568710",
+    "book_title": "01-01-00: The Novel of the Millennium",
+    "book_author": "R. J. Pineiro",
+    "year_of_publication": "1999",
+    "publisher": "Tor Books (Mm)",
+    "image_url_s": "http://images.amazon.com/images/P/0812568710.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0812568710.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0812568710.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "563368047",
+    "book_title": "03 NODDY AND HIS CAR",
+    "book_author": "Noddy Library",
+    "year_of_publication": "1992",
+    "publisher": "IGC Australia (In Good Care)",
+    "image_url_s": "http://images.amazon.com/images/P/0563368047.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0563368047.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0563368047.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "373482647",
+    "book_title": "0373953194 Christmas Stories 1993",
+    "book_author": "Lisa Jackson",
+    "year_of_publication": "1993",
+    "publisher": "Silhouette",
+    "image_url_s": "http://images.amazon.com/images/P/0373482647.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0373482647.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0373482647.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "43492783",
+    "book_title": "06 Henry The Green Engine",
+    "book_author": "Awdry",
+    "year_of_publication": "1951",
+    "publisher": "Egmont Childrens Books",
+    "image_url_s": "http://images.amazon.com/images/P/043492783X.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/043492783X.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/043492783X.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "3442013453",
+    "book_title": "08/15 Heute",
+    "book_author": "Kirst",
+    "year_of_publication": "0",
+    "publisher": "Wilhelm Goldmann Verlag GmbH",
+    "image_url_s": "http://images.amazon.com/images/P/3442013453.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/3442013453.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/3442013453.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "1591090113",
+    "book_title": "09/11 8:48 am: Documenting America's Greatest Tragedy",
+    "book_author": "Ethan Casey (editor) BlueEar.com",
+    "year_of_publication": "2001",
+    "publisher": "BlueEar.com",
+    "image_url_s": "http://images.amazon.com/images/P/1591090113.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/1591090113.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/1591090113.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "3219103103",
+    "book_title": "1 + 2=4: Das Gigelchen geht in die Schule",
+    "book_author": "Johannes Paul",
+    "year_of_publication": "1985",
+    "publisher": "Betz",
+    "image_url_s": "http://images.amazon.com/images/P/3219103103.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/3219103103.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/3219103103.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "1564585344",
+    "book_title": "1 2 3 Board Book",
+    "book_author": "Snapshot",
+    "year_of_publication": "1994",
+    "publisher": "Dorling Kindersley Publishing",
+    "image_url_s": "http://images.amazon.com/images/P/1564585344.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/1564585344.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/1564585344.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "939217449",
+    "book_title": "1 2 3 Draw Cars, Trucks, and Other Vehicles: A Step-By-Step Guide (1-2-3 Draw)",
+    "book_author": "Freddie Levin",
+    "year_of_publication": "2002",
+    "publisher": "Peel Productions",
+    "image_url_s": "http://images.amazon.com/images/P/0939217449.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0939217449.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0939217449.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "671822284",
+    "book_title": "1 GENERATION AFTER",
+    "book_author": "Elie Weisel",
+    "year_of_publication": "1978",
+    "publisher": "Pocket",
+    "image_url_s": "http://images.amazon.com/images/P/0671822284.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0671822284.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0671822284.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "937708232",
+    "book_title": "1 Mans Homestead (Illus)",
+    "book_author": "Robert Redding",
+    "year_of_publication": "1990",
+    "publisher": "Great Northwest Publishing &amp; Distributing Com",
+    "image_url_s": "http://images.amazon.com/images/P/0937708232.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0937708232.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0937708232.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "892861002",
+    "book_title": "1 Pot Meals",
+    "book_author": "Margaret Gin",
+    "year_of_publication": "1976",
+    "publisher": "Simon &amp; Schuster",
+    "image_url_s": "http://images.amazon.com/images/P/0892861002.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0892861002.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0892861002.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "671003550",
+    "book_title": "1 RAGGED RIDGE ROAD",
+    "book_author": "Leonard Foglia",
+    "year_of_publication": "1998",
+    "publisher": "Pocket",
+    "image_url_s": "http://images.amazon.com/images/P/0671003550.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0671003550.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0671003550.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "919091628",
+    "book_title": "1 World",
+    "book_author": "Alyn E. &amp; Tuffs, Joann R. Mitchner",
+    "year_of_publication": "1989",
+    "publisher": "Nelson Canada",
+    "image_url_s": "http://images.amazon.com/images/P/0919091628.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0919091628.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0919091628.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "340102616",
+    "book_title": "1 x Jenseits, einfache Fahrt. Chili.",
+    "book_author": "Peter Kaczmarek",
+    "year_of_publication": "2001",
+    "publisher": "Arena",
+    "image_url_s": "http://images.amazon.com/images/P/340102616X.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/340102616X.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/340102616X.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "2246637910",
+    "book_title": "1+1+1 Une R�?©volution",
+    "book_author": "Alexandre Jardin",
+    "year_of_publication": "2002",
+    "publisher": "Grasset",
+    "image_url_s": "http://images.amazon.com/images/P/2246637910.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/2246637910.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/2246637910.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "68802579",
+    "book_title": "1, 2, 3",
+    "book_author": "Tana Hoban",
+    "year_of_publication": "1985",
+    "publisher": "Greenwillow Books",
+    "image_url_s": "http://images.amazon.com/images/P/068802579X.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/068802579X.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/068802579X.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "531301885",
+    "book_title": "1, 2, 3, Music!",
+    "book_author": "Sylvie Auzary-Luton",
+    "year_of_publication": "1999",
+    "publisher": "Orchard Books (NY)",
+    "image_url_s": "http://images.amazon.com/images/P/0531301885.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0531301885.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0531301885.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "940953242",
+    "book_title": "1, 2, 3-- The Toddler Years: A Practical Guide for Parents and Caregivers",
+    "book_author": "Irene Van Der Zande",
+    "year_of_publication": "1993",
+    "publisher": "Center",
+    "image_url_s": "http://images.amazon.com/images/P/0940953242.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0940953242.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0940953242.01.LZZZZZZZ.jpg"
+  },
+  {
+    "book_isbn": "671681362",
+    "book_title": "1, 2, 3: NURSERY BOARD BOOKS (Nursery Board Books)",
+    "book_author": "Jan Pienkowski",
+    "year_of_publication": "1989",
+    "publisher": "Little Simon",
+    "image_url_s": "http://images.amazon.com/images/P/0671681362.01.THUMBZZZ.jpg",
+    "image_url_m": "http://images.amazon.com/images/P/0671681362.01.MZZZZZZZ.jpg",
+    "image_url_l": "http://images.amazon.com/images/P/0671681362.01.LZZZZZZZ.jpg"
+  }
+]
